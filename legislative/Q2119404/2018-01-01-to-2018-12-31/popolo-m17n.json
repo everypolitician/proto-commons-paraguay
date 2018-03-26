@@ -1,0 +1,60 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Víctor Bogado",
+        "lang:en_US": "Víctor Bogado"
+      },
+      "id": "Q42563233",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42563233"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "Cámara de Senadores de Paraguay",
+        "lang:en_US": "Senate of Paraguay"
+      },
+      "id": "Q2119404",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2119404"
+        }
+      ],
+      "area_id": "Q733",
+      "seat_counts": {
+        "Q20058559": "45"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42563233-4911dfd7-48b6-6416-ab3e-8cc3c1c5bc1f",
+      "person_id": "Q42563233",
+      "organization_id": "Q2119404",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es_LA": "senador",
+        "lang:en_US": "senator"
+      },
+      "role_code": "Q20058559",
+      "role": {
+        "lang:es_LA": "senador de Paraguay",
+        "lang:en_US": "senator of Paraguay"
+      }
+    }
+  ]
+}

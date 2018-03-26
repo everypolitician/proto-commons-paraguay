@@ -1,0 +1,60 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Víctor Ríos Ojeda",
+        "lang:en_US": "Víctor Ríos Ojeda"
+      },
+      "id": "Q29881992",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29881992"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "Cámara de Diputados de Paraguay",
+        "lang:en_US": "Chamber of Deputies"
+      },
+      "id": "Q320290",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q320290"
+        }
+      ],
+      "area_id": "Q733",
+      "seat_counts": {
+        "Q20058561": "80"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29881992-5868caf0-4928-9e44-6158-207685817cac",
+      "person_id": "Q29881992",
+      "organization_id": "Q320290",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q20058561",
+      "role": {
+        "lang:es_LA": "diputado de Paraguay",
+        "lang:en_US": "deputy of Paraguay"
+      }
+    }
+  ]
+}
