@@ -1,0 +1,47 @@
+SELECT DISTINCT ?item ?itemLabel ?country ?countryLabel ?body ?bodyLabel ?bodyType ?bodyTypeLabel ?position ?positionLabel ?numberOfSeats WHERE {
+  {
+    SELECT DISTINCT ?primarySort ?body ?bodyType {
+  {
+    VALUES (?body ?primarySort ?bodyType) { (wd:Q733 1 wd:Q6256) }
+  } UNION {
+    # Find FLACSen of this country
+    ?body wdt:P17 wd:Q733 ;
+          wdt:P31/wdt:P279* wd:Q10864048
+    VALUES (?primarySort ?bodyType) { (2 wd:Q10864048) }
+  } UNION {
+    # Find cities with populations of over 250k
+    ?body wdt:P17 wd:Q733 ;
+       wdt:P31/wdt:P279* wd:Q515 ;
+       wdt:P1082 ?population .
+    FILTER (?population > 250000)
+    VALUES (?primarySort ?bodyType) { (3 wd:Q515) }
+  }
+} ORDER BY ?primarySort
+
+  }
+
+  ?body wdt:P194/wdt:P527? ?item .
+
+  VALUES ?itemType { wd:Q11204 wd:Q10553309 }
+  ?item wdt:P31/wdt:P279* ?itemType .
+  FILTER (?itemType != wd:Q11204 || NOT EXISTS { ?item wdt:P527 ?itemPart . ?itemPart  wdt:P31/wdt:P279* wd:Q10553309 })
+
+  # Attempt to find the position for members of the item
+  OPTIONAL {
+    # Both "has part" and "has parts of class" seem to be used; with the latter not in keeping with the draft model
+    ?item wdt:P527|wdt:P2670 ?position .
+    ?position wdt:P31/wdt:P279* wd:Q4164871 .
+    # Make sure positions are either legislators or councillors (and so exclude e.g. mayors)
+    FILTER EXISTS {
+      VALUES ?positionSuperType { wd:Q4175034 wd:Q708492 }
+      ?position wdt:P279+ ?positionSuperType .
+    }
+  }
+  OPTIONAL {
+    ?item wdt:P1342 ?numberOfSeats .
+  }
+
+  # Remove items that have ended
+  FILTER NOT EXISTS { ?item wdt:P576 ?itemEnd . FILTER (?itemEnd < NOW()) }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,es,gn". }
+} ORDER BY ?primarySort ?country ?bodyType ?item ?position

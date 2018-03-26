@@ -1,2 +1,24 @@
-[]
-
+[
+  {
+    "comment": "Senate of Paraguay",
+    "house_item_id": "Q2119404",
+    "position_item_id": "Q20058559",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Chamber of Deputies",
+    "house_item_id": "Q320290",
+    "position_item_id": "Q20058561",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  }
+]

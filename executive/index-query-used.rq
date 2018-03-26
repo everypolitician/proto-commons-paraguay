@@ -1,0 +1,42 @@
+SELECT DISTINCT ?item ?itemLabel ?body ?bodyLabel ?bodyType ?bodyTypeLabel ?position ?positionLabel {
+  {
+    SELECT DISTINCT ?primarySort ?body ?bodyType {
+  {
+    VALUES (?body ?primarySort ?bodyType) { (wd:Q733 1 wd:Q6256) }
+  } UNION {
+    # Find FLACSen of this country
+    ?body wdt:P17 wd:Q733 ;
+          wdt:P31/wdt:P279* wd:Q10864048
+    VALUES (?primarySort ?bodyType) { (2 wd:Q10864048) }
+  } UNION {
+    # Find cities with populations of over 250k
+    ?body wdt:P17 wd:Q733 ;
+       wdt:P31/wdt:P279* wd:Q515 ;
+       wdt:P1082 ?population .
+    FILTER (?population > 250000)
+    VALUES (?primarySort ?bodyType) { (3 wd:Q515) }
+  }
+} ORDER BY ?primarySort
+
+  }
+
+  OPTIONAL {
+    ?position p:P1001 [ wikibase:rank ?appliesToJurisdictionRank ; ps:P1001 ?body ] ;
+      wdt:P31/wdt:P279* wd:Q4164871 .
+    FILTER (?appliesToJurisdictionRank != wikibase:DeprecatedRank)
+    FILTER EXISTS {
+      VALUES ?positionSuperclass { wd:Q2285706 wd:Q30461 }
+      ?position wdt:P279* ?positionSuperclass .
+    }
+
+    OPTIONAL {
+      ?position wdt:P361 ?item .
+      # Exclude executives that are privy councils
+      FILTER NOT EXISTS { ?item wdt:P31/wdt:P279* wd:Q6528244 }
+      # Exclude executives which aren't direct parents of the position
+      FILTER NOT EXISTS { ?position wdt:P361 ?other . ?other wdt:P361+ ?item }
+    }
+  }
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,es,gn". }
+} ORDER BY ?primarySort ?country ?bodyType ?item ?position
