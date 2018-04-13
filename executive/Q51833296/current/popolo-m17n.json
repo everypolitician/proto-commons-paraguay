@@ -1,0 +1,1598 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Emiliano González Navero",
+        "lang:gn_PY": "Emiliano González Navero",
+        "lang:en_US": "Emiliano González Navero"
+      },
+      "id": "Q150816",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q150816"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Benigno Ferreira",
+        "lang:gn_PY": "Benigno Ferreira",
+        "lang:en_US": "Benigno Ferreira"
+      },
+      "id": "Q150829",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q150829"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Marcos Antonio Morínigo",
+        "lang:en_US": "Marcos Morínigo"
+      },
+      "id": "Q1653461",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1653461"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Rafael Franco",
+        "lang:gn_PY": "Rafael Franco",
+        "lang:en_US": "Rafael Franco"
+      },
+      "id": "Q1654212",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1654212"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Luis Alberto Riart",
+        "lang:gn_PY": "Luis Alberto Riart",
+        "lang:en_US": "Luis Alberto Riart"
+      },
+      "id": "Q1654225",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1654225"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "José Patricio Guggiari",
+        "lang:en_US": "José Patricio Guggiari"
+      },
+      "id": "Q2357083",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2357083"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Eligio Ayala",
+        "lang:gn_PY": "Eligio Ayala",
+        "lang:en_US": "Eligio Ayala"
+      },
+      "id": "Q2357137",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2357137"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Cirilo Antonio Rivarola",
+        "lang:en_US": "Cirilo Antonio Rivarola"
+      },
+      "id": "Q2610334",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2610334"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Salvador Jovellanos",
+        "lang:gn_PY": "Salvador Jovellanos",
+        "lang:en_US": "Salvador Jovellanos"
+      },
+      "id": "Q26551",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26551"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Higinio Uriarte",
+        "lang:en_US": "Higinio Uriarte"
+      },
+      "id": "Q26554",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26554"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan Bautista Gill",
+        "lang:gn_PY": "Juan Bautista Gill",
+        "lang:en_US": "Juan Bautista Gill"
+      },
+      "id": "Q26560",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26560"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan Carlos Wasmosy",
+        "lang:en_US": "Juan Carlos Wasmosy"
+      },
+      "id": "Q376549",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q376549"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Fulgencio Yegros",
+        "lang:gn_PY": "Fulgencio Yegros",
+        "lang:en_US": "Fulgencio Yegros"
+      },
+      "id": "Q37679",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q37679"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "José Félix Estigarribia",
+        "lang:gn_PY": "José Félix Estigarribia",
+        "lang:en_US": "José Félix Estigarribia"
+      },
+      "id": "Q379670",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q379670"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Pedro Pablo Peña",
+        "lang:en_US": "Pedro Peña"
+      },
+      "id": "Q387044",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q387044"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Adolfo Saguier",
+        "lang:en_US": "Adolfo Saguier"
+      },
+      "id": "Q390026",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q390026"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan José Medina",
+        "lang:en_US": "Juan José Medina"
+      },
+      "id": "Q430723",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q430723"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Andrés Rodríguez Pedotti",
+        "lang:en_US": "Andrés Rodríguez"
+      },
+      "id": "Q440837",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q440837"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Raúl Cubas Grau",
+        "lang:en_US": "Raúl Cubas Grau"
+      },
+      "id": "Q460003",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q460003"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Eusebio Ayala",
+        "lang:gn_PY": "Eusebio Ayala",
+        "lang:en_US": "Eusebio Ayala"
+      },
+      "id": "Q559950",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q559950"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Emilio Aceval",
+        "lang:gn_PY": "Emilio Aceval",
+        "lang:en_US": "Emilio Aceval"
+      },
+      "id": "Q561554",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q561554"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Horacio Cartes",
+        "lang:gn_PY": "Horacio Cartes",
+        "lang:en_US": "Horacio Cartes"
+      },
+      "id": "Q5901842",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5901842"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Tomás Romero Pereira",
+        "lang:en_US": "Tomás Romero Pereira"
+      },
+      "id": "Q601657",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q601657"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan Manuel Frutos",
+        "lang:gn_PY": "Juan Manuel Frutos",
+        "lang:en_US": "Juan Manuel Frutos"
+      },
+      "id": "Q628530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q628530"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Cándido Bareiro",
+        "lang:gn_PY": "Cándido Bareiro",
+        "lang:en_US": "Cándido Bareiro"
+      },
+      "id": "Q730957",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q730957"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Bernardino Caballero",
+        "lang:en_US": "Bernardino Caballero"
+      },
+      "id": "Q738679",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q738679"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Manuel Gondra",
+        "lang:en_US": "Manuel Gondra"
+      },
+      "id": "Q860963",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q860963"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Cecilio Báez",
+        "lang:gn_PY": "Cecilio Báez",
+        "lang:en_US": "Cecilio Báez"
+      },
+      "id": "Q860978",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q860978"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan Gualberto González",
+        "lang:gn_PY": "Juan Gualberto González",
+        "lang:en_US": "Juan Gualberto González"
+      },
+      "id": "Q860983",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q860983"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Manuel Franco",
+        "lang:en_US": "Manuel Franco"
+      },
+      "id": "Q860987",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q860987"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "José Pedro Montero",
+        "lang:gn_PY": "José Pedro Montero",
+        "lang:en_US": "José Pedro Montero"
+      },
+      "id": "Q860997",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q860997"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Eduardo Schaerer",
+        "lang:gn_PY": "Eduardo Schaerer",
+        "lang:en_US": "Eduardo Schaerer"
+      },
+      "id": "Q861003",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q861003"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Félix Paiva",
+        "lang:en_US": "Félix Paiva"
+      },
+      "id": "Q861008",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q861008"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan Bautista Egusquiza",
+        "lang:en_US": "Juan Bautista Egusquiza"
+      },
+      "id": "Q861014",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q861014"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan Natalicio González",
+        "lang:gn_PY": "Juan Natalicio González",
+        "lang:en_US": "Juan Natalicio González"
+      },
+      "id": "Q861023",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q861023"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan Bautista Gaona",
+        "lang:en_US": "Juan Bautista Gaona"
+      },
+      "id": "Q861579",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q861579"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Liberato Marcial Rojas",
+        "lang:en_US": "Liberato Marcial Rojas"
+      },
+      "id": "Q861582",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q861582"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Albino Jara",
+        "lang:en_US": "Albino Jara"
+      },
+      "id": "Q861599",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q861599"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Higinio Morínigo",
+        "lang:en_US": "Higinio Moríñigo"
+      },
+      "id": "Q887269",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q887269"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Federico Chaves",
+        "lang:en_US": "Federico Chávez"
+      },
+      "id": "Q888098",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q888098"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Mariano Roque Alonso",
+        "lang:en_US": "Mariano Roque Alonzo"
+      },
+      "id": "Q888103",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q888103"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Raimundo Rolón",
+        "lang:gn_PY": "Raimundo Rolón",
+        "lang:en_US": "Raimundo Rolón"
+      },
+      "id": "Q888249",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q888249"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Felipe Molas López",
+        "lang:gn_PY": "Felipe Molas López",
+        "lang:en_US": "Felipe Molas López"
+      },
+      "id": "Q888255",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q888255"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "Ministerios del Poder Ejecutivo",
+        "lang:en_US": "Ministries of Executive Power"
+      },
+      "id": "Q51833296",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833296"
+        }
+      ],
+      "area_id": "Q733"
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Revolucionario Febrerista",
+        "lang:en_US": "Revolutionary Febrerista Party"
+      },
+      "id": "Q1477511",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1477511"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Radical Auténtico",
+        "lang:en_US": "Authentic Radical Liberal Party"
+      },
+      "id": "Q2735114",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2735114"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_US": "Liberal Party"
+      },
+      "id": "Q6540713",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6540713"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Colorado",
+        "lang:en_US": "Colorado Party"
+      },
+      "id": "Q928949",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q928949"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q150816-6ACDBFD9-CE02-430E-9E41-10B26E8FC678",
+      "person_id": "Q150816",
+      "on_behalf_of_id": "Q6540713",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q150829-E09EF76B-13A1-4406-9BA7-9C548F8ED0EA",
+      "person_id": "Q150829",
+      "on_behalf_of_id": "Q6540713",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1653461-13099F1C-784D-4853-9294-EC17DBE74C9B",
+      "person_id": "Q1653461",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1654212-1275B0B1-8AA5-4EF2-9210-54F703152802",
+      "person_id": "Q1654212",
+      "on_behalf_of_id": "Q1477511",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1654225-1427A40F-4C2E-44C8-8C1A-945FEA97DDE9",
+      "person_id": "Q1654225",
+      "on_behalf_of_id": "Q6540713",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2357083-16FD770F-5B8E-4B17-8262-1C4B7C1AF298",
+      "person_id": "Q2357083",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2357137-52F2C0E3-AF15-4181-B7F3-77E1E2ED9E20",
+      "person_id": "Q2357137",
+      "on_behalf_of_id": "Q6540713",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2610334-1A704797-193B-49E4-BD43-7D5D87651DE2",
+      "person_id": "Q2610334",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26551-7E684501-AF85-4918-9350-5AF54D6F5DBB",
+      "person_id": "Q26551",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26554-2BFCBCE9-5FB1-44C9-8422-2DE30E2D52C0",
+      "person_id": "Q26554",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q376549-66C0039A-AC2C-46DF-9221-85D0A6C78DED",
+      "person_id": "Q376549",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q37679-9624176D-7D9B-4170-B987-1FE20A50D404",
+      "person_id": "Q37679",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q379670-D25DA434-786E-4AED-8E95-A997DBC03F92",
+      "person_id": "Q379670",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q387044-349C4749-1B0B-48E6-8698-31919E3C5EC1",
+      "person_id": "Q387044",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q390026-A3D2CF6F-A5F3-48ED-93C1-A18D5EC1A4C1",
+      "person_id": "Q390026",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q430723-A03DF336-4FDC-49F3-BA5E-3F41035CDC31",
+      "person_id": "Q430723",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q440837-675B0B5A-2121-4D35-B63C-E95BD8DF94A6",
+      "person_id": "Q440837",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q460003-E6C0B603-EB30-4326-930A-DF674F97ABCB",
+      "person_id": "Q460003",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q559950-E91E268D-9D24-4174-83F1-EE0493CC28C7",
+      "person_id": "Q559950",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q561554-72B11508-5E3B-4177-9EF9-81EBB22EAD82",
+      "person_id": "Q561554",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q601657-90EDF0B6-3EFF-4C13-AD90-DE251D3CF335",
+      "person_id": "Q601657",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q628530-9E4B42FE-EA28-4A82-900F-778ADFA7BBA2",
+      "person_id": "Q628530",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q730957-FFDEC9D8-B800-402B-B6C5-E936967FC8F3",
+      "person_id": "Q730957",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q738679-32E5A48E-E67E-4C57-9B91-AC9A1A91B37C",
+      "person_id": "Q738679",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q860963-C4FB10CA-367C-4B90-A985-47F14099434C",
+      "person_id": "Q860963",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q860978-640155B2-8C56-4717-9A32-29645D21FD48",
+      "person_id": "Q860978",
+      "on_behalf_of_id": "Q6540713",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q860983-FF3F8717-F8A1-41E9-9EAF-559433456B09",
+      "person_id": "Q860983",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q860987-CF8DBD0B-3FB6-446D-8B2C-18FEFCB08688",
+      "person_id": "Q860987",
+      "on_behalf_of_id": "Q6540713",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q860997-62BA9909-2995-4655-B101-F8CE71A11D37",
+      "person_id": "Q860997",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q861003-0B77E2F8-3F9F-438F-A61F-AFF8839AC30C",
+      "person_id": "Q861003",
+      "on_behalf_of_id": "Q6540713",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q861008-F62D4D38-7237-4CBE-9B7A-FDEB2CC0CF70",
+      "person_id": "Q861008",
+      "on_behalf_of_id": "Q6540713",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q861014-9231AB46-822B-4611-8E2D-3263DE45E797",
+      "person_id": "Q861014",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q861023-DC8E25C1-3038-4BA2-B154-CF5C50FB86E2",
+      "person_id": "Q861023",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q861579-8EF7BB34-B6B2-4888-8B78-1A5C622FDCA5",
+      "person_id": "Q861579",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q861582-5F72F069-6447-4245-83CC-844B129760F8",
+      "person_id": "Q861582",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q861599-EE19C1BB-03D1-47F7-9701-AF1435E6E1C1",
+      "person_id": "Q861599",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q887269-28A6C5B7-D7F1-4A42-8D76-A8522B6E3474",
+      "person_id": "Q887269",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q888098-0A5DD114-AC40-44EF-80A6-96595B0AA23A",
+      "person_id": "Q888098",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q888103-1A1E87EB-F665-403C-8290-AEF62CAD7846",
+      "person_id": "Q888103",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q888249-13529BD1-9760-47D0-8E1D-00B52510D383",
+      "person_id": "Q888249",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q888255-39D839E3-A0C9-4F95-93F6-A98646202B50",
+      "person_id": "Q888255",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q26560-579a3db6-44bd-f376-fa45-06b3706dd0f8",
+      "person_id": "Q26560",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q5901842-6b26ba7d-4422-8aea-e0cb-ddd936d7c476",
+      "person_id": "Q5901842",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "start_date": "2013-08-15",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es_LA": "Presidente del Paraguay",
+        "lang:gn_PY": "Tendota Paraguaigua",
+        "lang:en_US": "President of Paraguay"
+      }
+    }
+  ]
+}
