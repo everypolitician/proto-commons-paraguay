@@ -12,6 +12,19 @@
       "lang:en_US": "name_en",
       "lang:es_LA": "name_es"
     }
+  },
+  {
+    "directory": "chamber-constituencies",
+    "area_type_wikidata_item_id": "Q51829641",
+    "associations": [
+      {
+        "comment": "deputy of Paraguay",
+        "position_item_id": "Q20058561"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    }  
   }
 ]
 
