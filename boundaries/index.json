@@ -402,6 +402,20 @@
     "filter": {
       "match": "country:py/distrito-capital:distrito-capital-de-paraguay",
       "column": "MS_FB"
+    }  
+  },
+  {
+    "directory": "senate-national-constituency",
+    "area_type_wikidata_item_id": "Q51829400",
+    "associations": [
+      {
+        "comment": "senator of Paraguay",
+        "position_item_id": "Q20058559"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name_es",
+      "lang:en_US": "name_en"
     }
   }
 ]
