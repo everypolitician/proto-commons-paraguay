@@ -1,5 +1,4 @@
 WARNING: Position senador de Paraguay (Q20058559) not in boundary associated_wikidata_positions
-WARNING: Position diputado de Paraguay (Q20058561) not in boundary associated_wikidata_positions
 WARNING: Position Intendente municipal de Asunción (Q51831955) not in boundary associated_wikidata_positions
 WARNING: Position Gobernador del Departamento de Concepción (Q51831956) not in boundary associated_wikidata_positions
 WARNING: Position Gobernador del Departamento de San Pedro (Q51831957) not in boundary associated_wikidata_positions
