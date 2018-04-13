@@ -1,3 +1,192 @@
 [
-
+  {
+    "comment": "Ministries of Executive Power",
+    "executive_item_id": "Q51833296",
+    "positions": [
+      {
+        "comment": "President of Paraguay",
+        "position_item_id": "Q34071"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of Asuncion",
+    "executive_item_id": "Q51833297",
+    "positions": [
+      {
+        "comment": "Municipal mayor of Asuncion",
+        "position_item_id": "Q51831955"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Concepcion",
+    "executive_item_id": "Q51833299",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Concepcion",
+        "position_item_id": "Q51831956"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of San Pedro",
+    "executive_item_id": "Q51833300",
+    "positions": [
+      {
+        "comment": "Governor of the Department of San Pedro",
+        "position_item_id": "Q51831957"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Cordillera",
+    "executive_item_id": "Q51833301",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Cordillera",
+        "position_item_id": "Q51831958"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Guairá",
+    "executive_item_id": "Q51833303",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Guairá",
+        "position_item_id": "Q51831959"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Caaguazú",
+    "executive_item_id": "Q51833304",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Caaguazú",
+        "position_item_id": "Q51831961"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Caazapá",
+    "executive_item_id": "Q51833305",
+    "positions": [
+      {
+        "comment": "Gobernador del Depatamento de Caazapá",
+        "position_item_id": "Q51831963"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Itapúa",
+    "executive_item_id": "Q51833306",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Itapúa",
+        "position_item_id": "Q51831964"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Misiones",
+    "executive_item_id": "Q51833313",
+    "positions": [
+      {
+        "comment": "Gobernador del Departamento de Misiones",
+        "position_item_id": "Q51831965"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Paraguari",
+    "executive_item_id": "Q51833314",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Paraguari",
+        "position_item_id": "Q51831974"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Alto Parana",
+    "executive_item_id": "Q51833315",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Alto Parana",
+        "position_item_id": "Q51831976"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Central",
+    "executive_item_id": "Q51833317",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Central",
+        "position_item_id": "Q51831977"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Ñeembucú",
+    "executive_item_id": "Q51833320",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Ñeembucu",
+        "position_item_id": "Q51831978"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Amambay",
+    "executive_item_id": "Q51833321",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Amambay",
+        "position_item_id": "Q51831979"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Canindeyú",
+    "executive_item_id": "Q51833322",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Canindeyu",
+        "position_item_id": "Q51831980"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Presidente Hayes",
+    "executive_item_id": "Q51833324",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Presidente Hayes",
+        "position_item_id": "Q51831981"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Boquerón",
+    "executive_item_id": "Q51833325",
+    "positions": [
+      {
+        "comment": "Governor of the Department of Boqueron",
+        "position_item_id": "Q51831983"
+      }
+    ]
+  },
+  {
+    "comment": "Cabinet of the Department of Alto Paraguay",
+    "executive_item_id": "Q51833333",
+    "positions": [
+      {
+        "comment": "Gobernador del Departamento de Alto Paraguay",
+        "position_item_id": "Q51831986"
+      }
+    ]
+  }
 ]
