@@ -1,0 +1,126 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Carlos Gustavo Benítez",
+        "lang:en_US": "Carlos Gustavo Benítez"
+      },
+      "id": "Q51885485",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885485"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "junta departmental de Alto Paraná",
+        "lang:en_US": "departmental board of Alto Parana"
+      },
+      "id": "Q51839114",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839114"
+        }
+      ],
+      "area_id": "Q682654",
+      "seat_counts": {
+        "Q51842229": "21"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Radical Auténtico",
+        "lang:en_US": "Authentic Radical Liberal Party"
+      },
+      "id": "Q2735114",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2735114"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q682654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/departamento:alto-parana"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51831976",
+        "Q51842229"
+      ],
+      "type": {
+        "lang:es_LA": "departamento de Paraguay",
+        "lang:gn_PY": "Tetãvore Paraguái",
+        "lang:en_US": "department of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Alto Paraná"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q34071"
+      ],
+      "type": {
+        "lang:es_LA": "país",
+        "lang:gn_PY": "tetã",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Republic of Paraguay",
+        "lang:es_LA": "República del Paraguay"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885485-949B53CF-FCBB-478D-A227-3B5A86F7DDDA",
+      "person_id": "Q51885485",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51839114",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51842229",
+      "role": {
+        "lang:es_LA": "concejal departamental de Alto Paraná",
+        "lang:en_US": "councillor for Alto Paraná department"
+      }
+    }
+  ]
+}

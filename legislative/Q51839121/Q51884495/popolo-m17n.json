@@ -1,0 +1,65 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q34071"
+      ],
+      "type": {
+        "lang:es_LA": "país",
+        "lang:gn_PY": "tetã",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Republic of Paraguay",
+        "lang:es_LA": "República del Paraguay"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q750551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/departamento:presidente-hayes"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q750551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51831981",
+        "Q51842237"
+      ],
+      "type": {
+        "lang:es_LA": "departamento de Paraguay",
+        "lang:gn_PY": "Tetãvore Paraguái",
+        "lang:en_US": "department of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Presidente Hayes"
+      },
+      "parent_id": "Q733"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

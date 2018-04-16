@@ -1,0 +1,126 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Espiridion Peña",
+        "lang:en_US": "Espiridion Peña"
+      },
+      "id": "Q51885487",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885487"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "junta departmental de Cordillera",
+        "lang:en_US": "departmental board of Cordillera"
+      },
+      "id": "Q51839099",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839099"
+        }
+      ],
+      "area_id": "Q755121",
+      "seat_counts": {
+        "Q51842214": "16"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Radical Auténtico",
+        "lang:en_US": "Authentic Radical Liberal Party"
+      },
+      "id": "Q2735114",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2735114"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q34071"
+      ],
+      "type": {
+        "lang:es_LA": "país",
+        "lang:gn_PY": "tetã",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Republic of Paraguay",
+        "lang:es_LA": "República del Paraguay"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q755121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/departamento:cordillera"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q755121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51831958",
+        "Q51842214"
+      ],
+      "type": {
+        "lang:es_LA": "departamento de Paraguay",
+        "lang:gn_PY": "Tetãvore Paraguái",
+        "lang:en_US": "department of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Cordillera"
+      },
+      "parent_id": "Q733"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885487-32AFC595-6945-40E6-9B16-71B93A3505EE",
+      "person_id": "Q51885487",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51839099",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51842214",
+      "role": {
+        "lang:es_LA": "concejal departamental de Cordillera",
+        "lang:en_US": "councillor for Cordillera department"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q34071"
+      ],
+      "type": {
+        "lang:es_LA": "país",
+        "lang:gn_PY": "tetã",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Republic of Paraguay",
+        "lang:es_LA": "República del Paraguay"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q881839",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/departamento:caazapa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q881839"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51831963",
+        "Q51842218"
+      ],
+      "type": {
+        "lang:es_LA": "departamento de Paraguay",
+        "lang:gn_PY": "Tetãvore Paraguái",
+        "lang:en_US": "department of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Caazapá"
+      },
+      "parent_id": "Q733"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

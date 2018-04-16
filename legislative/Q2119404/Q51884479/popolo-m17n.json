@@ -1,0 +1,308 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Fernando Lugo",
+        "lang:gn_PY": "Fernando Lugo",
+        "lang:en_US": "Fernando Lugo"
+      },
+      "id": "Q151879",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q151879"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_US": "Mario Abdo Benítez"
+      },
+      "id": "Q48136013",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48136013"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MaritoAbdo2018"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Mirta Leonor Gusinky",
+        "lang:en_US": "Mirta Leonor Gusinky"
+      },
+      "id": "Q51885473",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885473"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/mirta.gusinky.7"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Roberto Ramón Acevedo Quevedo",
+        "lang:en_US": "Roberto Ramón Acevedo Quevedo"
+      },
+      "id": "Q51885474",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885474"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Desirée Graciela Masi Jara",
+        "lang:en_US": "Desirée Graciela Masi Jara"
+      },
+      "id": "Q51885475",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885475"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/desiree.masi"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "Cámara de Senadores de Paraguay",
+        "lang:en_US": "Senate of Paraguay"
+      },
+      "id": "Q2119404",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2119404"
+        }
+      ],
+      "area_id": "Q733",
+      "seat_counts": {
+        "Q20058559": "45"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Frente Guasú",
+        "lang:en_US": "Frente Guasú"
+      },
+      "id": "Q11755876",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11755876"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Radical Auténtico",
+        "lang:en_US": "Authentic Radical Liberal Party"
+      },
+      "id": "Q2735114",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2735114"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Democrático Progresista (Paraguay)",
+        "lang:en_US": "Democratic Progressive Party"
+      },
+      "id": "Q3366435",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3366435"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Colorado",
+        "lang:en_US": "Colorado Party"
+      },
+      "id": "Q928949",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q928949"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q51829445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/legislator-at-large:senate-national"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51829445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058559"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Senate of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "circunscripción nacional",
+        "lang:en_US": "national constituency"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q34071"
+      ],
+      "type": {
+        "lang:es_LA": "país",
+        "lang:gn_PY": "tetã",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Republic of Paraguay",
+        "lang:es_LA": "República del Paraguay"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q151879-A9843A3D-AC56-4A99-89B2-006A14D41597",
+      "person_id": "Q151879",
+      "on_behalf_of_id": "Q11755876",
+      "organization_id": "Q2119404",
+      "area_id": "Q51829445",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es_LA": "senador",
+        "lang:en_US": "senator"
+      },
+      "role_code": "Q20058559",
+      "role": {
+        "lang:es_LA": "senador de Paraguay",
+        "lang:en_US": "senator of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48136013-ED06DF30-65C0-4DE7-B1D9-7AFBDF5FAD64",
+      "person_id": "Q48136013",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q2119404",
+      "area_id": "Q51829445",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es_LA": "senador",
+        "lang:en_US": "senator"
+      },
+      "role_code": "Q20058559",
+      "role": {
+        "lang:es_LA": "senador de Paraguay",
+        "lang:en_US": "senator of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885473-38BA8D59-A6D6-4714-B698-504379C1DA19",
+      "person_id": "Q51885473",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q2119404",
+      "area_id": "Q51829445",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es_LA": "senador",
+        "lang:en_US": "senator"
+      },
+      "role_code": "Q20058559",
+      "role": {
+        "lang:es_LA": "senador de Paraguay",
+        "lang:en_US": "senator of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885474-8AB3E159-4969-46EA-A203-F3F388F4DB23",
+      "person_id": "Q51885474",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q2119404",
+      "area_id": "Q51829445",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es_LA": "senador",
+        "lang:en_US": "senator"
+      },
+      "role_code": "Q20058559",
+      "role": {
+        "lang:es_LA": "senador de Paraguay",
+        "lang:en_US": "senator of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885475-6F194770-C259-43DA-9BC2-7CB72EA8B034",
+      "person_id": "Q51885475",
+      "on_behalf_of_id": "Q3366435",
+      "organization_id": "Q2119404",
+      "area_id": "Q51829445",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es_LA": "senador",
+        "lang:en_US": "senator"
+      },
+      "role_code": "Q20058559",
+      "role": {
+        "lang:es_LA": "senador de Paraguay",
+        "lang:en_US": "senator of Paraguay"
+      }
+    }
+  ]
+}
