@@ -4,6 +4,24 @@
   },
   "results" : {
     "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2735114"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Authentic Radical Liberal Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Liberal Radical Auténtico"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51885482"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q755121"
@@ -50,10 +68,6 @@
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernador del Departamento de Cordillera"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q51885482"
       },
       "name_en" : {
         "xml:lang" : "en",

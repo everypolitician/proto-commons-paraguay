@@ -3,6 +3,108 @@
     "vars" : [ "statement", "item", "name_es", "name_gn", "name_en", "party", "party_name_es", "party_name_gn", "party_name_en", "district", "district_name_es", "district_name_gn", "district_name_en", "role", "role_es", "role_gn", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_es", "role_superclass_gn", "role_superclass_en", "org", "org_es", "org_gn", "org_en", "org_jurisdiction" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928949"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colorado Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Colorado"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51885490"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192235"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ciudad del Este"
+      },
+      "district_name_gn" : {
+        "xml:lang" : "gn",
+        "type" : "literal",
+        "value" : "Ciudad del Este"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Ciudad del Este"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51885152"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51885152"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal mayor of Ciudad del Este"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente municipal de Ciudad del Este"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal mayor of Ciudad del Este"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente municipal de Ciudad del Este"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sandra María McLeod de Zacarías"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Sandra María McLeod de Zacarías"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51885159"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "cabinet of Ciudad del Este"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "gabinete de Ciudad del Este"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q51885490-DEC4CD5D-5246-4AE2-8A9B-60D4F7B66BCF"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q192235"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "SandraZacariasMcLeod"
+      }
+    } ]
   }
 }

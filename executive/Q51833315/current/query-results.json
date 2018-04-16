@@ -4,6 +4,24 @@
   },
   "results" : {
     "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q928949"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Colorado Party"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Partido Colorado"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51885483"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q682654"
@@ -50,10 +68,6 @@
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobernador del Departamento de Alto Paraná"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q51885483"
       },
       "name_en" : {
         "xml:lang" : "en",
