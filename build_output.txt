@@ -1,19 +1,1 @@
 WARNING: Position senador de Paraguay (Q20058559) not in boundary associated_wikidata_positions
-WARNING: Position Intendente municipal de Asunción (Q51831955) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Concepción (Q51831956) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de San Pedro (Q51831957) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Cordillera (Q51831958) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Guairá (Q51831959) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Caaguazú (Q51831961) not in boundary associated_wikidata_positions
-WARNING: Position Governor of the Department of Caazapá (Q51831963) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Itapúa (Q51831964) not in boundary associated_wikidata_positions
-WARNING: Position Governor of the Department of Misiones (Q51831965) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Paraguarí (Q51831974) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Alto Paraná (Q51831976) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento Central (Q51831977) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Ñeembucú (Q51831978) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Amambay (Q51831979) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Canindeyú (Q51831980) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Presidente Hayes (Q51831981) not in boundary associated_wikidata_positions
-WARNING: Position Gobernador del Departamento de Boquerón (Q51831983) not in boundary associated_wikidata_positions
-WARNING: Position Governor of the Department of Alto Paraguay (Q51831986) not in boundary associated_wikidata_positions
