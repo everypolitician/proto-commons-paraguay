@@ -1,9 +1,41 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es_LA": "Carlos Alberto Saldívar",
+        "lang:en_US": "Carlos Alberto Saldívar"
+      },
+      "id": "Q51885481",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885481"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/carlossaldivargobernador"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "Gabinete del Departamento Central",
+        "lang:en_US": "Cabinet of the Department of Central"
+      },
+      "id": "Q51833317",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833317"
+        }
+      ],
+      "area_id": "Q372461"
+    }
   ],
   "areas": [
     {
@@ -60,6 +92,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885481-D8103F2F-210E-4A60-B85B-684FE2AE12A8",
+      "person_id": "Q51885481",
+      "organization_id": "Q51833317",
+      "area_id": "Q372461",
+      "role_superclass_code": "Q51831977",
+      "role_superclass": {
+        "lang:es_LA": "Gobernador del Departamento Central",
+        "lang:en_US": "Governor of the Department of Central"
+      },
+      "role_code": "Q51831977",
+      "role": {
+        "lang:es_LA": "Gobernador del Departamento Central",
+        "lang:en_US": "Governor of the Department of Central"
+      }
+    }
   ]
 }

@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Javier Silvera",
+        "lang:en_US": "Javier Silvera"
+      },
+      "id": "Q51885484",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885484"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es_LA": "Gabinete del Departamento de Guairá",
+        "lang:en_US": "Cabinet of the Department of Guairá"
+      },
+      "id": "Q51833303",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833303"
+        }
+      ],
+      "area_id": "Q755116"
+    }
   ],
   "areas": [
     {
@@ -60,6 +89,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885484-086793D0-9E65-48EB-9CE0-1F526D931F98",
+      "person_id": "Q51885484",
+      "organization_id": "Q51833303",
+      "area_id": "Q755116",
+      "role_superclass_code": "Q51831959",
+      "role_superclass": {
+        "lang:es_LA": "Gobernador del Departamento de Guairá",
+        "lang:en_US": "Governor of the Department of Guairá"
+      },
+      "role_code": "Q51831959",
+      "role": {
+        "lang:es_LA": "Gobernador del Departamento de Guairá",
+        "lang:en_US": "Governor of the Department of Guairá"
+      }
+    }
   ]
 }
