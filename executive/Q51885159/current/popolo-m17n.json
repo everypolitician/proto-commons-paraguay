@@ -52,7 +52,83 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q192235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/departamento:alto-parana/distrito:ciudad-del-este"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q192235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51885152",
+        "Q51842246"
+      ],
+      "type": {
+        "lang:es_LA": "Municipio de Paraguay",
+        "lang:en_US": "district of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Ciudad del Este"
+      },
+      "parent_id": "Q682654"
+    },
+    {
+      "id": "Q682654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/departamento:alto-parana"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q682654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51831976",
+        "Q51842229"
+      ],
+      "type": {
+        "lang:es_LA": "departamento de Paraguay",
+        "lang:gn_PY": "Tetãvore Paraguái",
+        "lang:en_US": "department of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Alto Paraná"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q34071"
+      ],
+      "type": {
+        "lang:es_LA": "país",
+        "lang:gn_PY": "tetã",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Republic of Paraguay",
+        "lang:es_LA": "República del Paraguay"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
