@@ -417,5 +417,26 @@
       "lang:es_LA": "name_es",
       "lang:en_US": "name_en"
     }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q917092",
+    "associations": [
+      {
+        "comment": "municipal mayor of Ciudad del Este",
+        "position_item_id": "Q51885152"
+      },
+      {
+        "comment": "councillor for the city of Ciudad del Este",
+        "position_item_id": "Q51842246"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:alto-parana/distrito:ciudad-del-este",
+      "column": "MS_FB"
+    }
   }
 ]
