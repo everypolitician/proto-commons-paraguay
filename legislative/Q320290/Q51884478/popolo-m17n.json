@@ -1,0 +1,670 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Edgar Acosta Alcaráz",
+        "lang:en_US": "Edgar Acosta Alcaráz"
+      },
+      "id": "Q51885476",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885476"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/edgar.acostaalcaraz"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Perla Teresa Beatriz Acosta de Vázquez",
+        "lang:en_US": "Perla Teresa Beatriz Acosta de Vázquez"
+      },
+      "id": "Q51885477",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885477"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "José Domingo Adorno Mazacotte",
+        "lang:en_US": "José Domingo Adorno Mazacotte"
+      },
+      "id": "Q51885478",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885478"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Pedro Lorenzo Alliana Rodríguez",
+        "lang:en_US": "Pedro Lorenzo Alliana Rodríguez"
+      },
+      "id": "Q51885479",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885479"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100010795747203"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Eusebio Alvarenga Martínez",
+        "lang:en_US": "Eusebio Alvarenga Martínez"
+      },
+      "id": "Q51885480",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885480"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Eusebio-Alvarenga-Diputado-Nacional-438741996188530"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "Cámara de Diputados de Paraguay",
+        "lang:en_US": "Chamber of Deputies"
+      },
+      "id": "Q320290",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q320290"
+        }
+      ],
+      "area_id": "Q733",
+      "seat_counts": {
+        "Q20058561": "80"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Radical Auténtico",
+        "lang:en_US": "Authentic Radical Liberal Party"
+      },
+      "id": "Q2735114",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2735114"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Colorado",
+        "lang:en_US": "Colorado Party"
+      },
+      "id": "Q928949",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q928949"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q51830033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:distrito-capital-de-paraguay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Distrito Capital de Paraguay"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:concepcion"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Concepción"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:san-pedro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "San Pedro"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:cordillera"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Cordillera"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830038",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:guaira"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830038"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Guairá"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:caaguazu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Caaguazú"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830040",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:caazapa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830040"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Caazapá"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:itapua"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830041"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Itapúa"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830043",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:misiones"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830043"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Misiones"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:paraguari"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Paraguarí"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:alto-parana"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Alto Paraná"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830053",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:central"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830053"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Departamento Central"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830055",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:neembucu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830055"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Ñeembucú"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:amambay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Amambay"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:canindeyu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Canindeyú"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:presidente-hayes"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Presidente Hayes"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:boqueron"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Boquerón"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q51830063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/chamber-constituency:alto-paraguay"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51830063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058561"
+      ],
+      "type": {
+        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Alto Paraguay"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q34071"
+      ],
+      "type": {
+        "lang:es_LA": "país",
+        "lang:gn_PY": "tetã",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Republic of Paraguay",
+        "lang:es_LA": "República del Paraguay"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885476-B61E4828-0EA2-4072-AFCE-AB4D51E724E9",
+      "person_id": "Q51885476",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q320290",
+      "area_id": "Q51830053",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q20058561",
+      "role": {
+        "lang:es_LA": "diputado de Paraguay",
+        "lang:en_US": "deputy of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885477-9E7E65A6-566B-4595-9D6E-0F6F6B4521F9",
+      "person_id": "Q51885477",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q320290",
+      "area_id": "Q51830036",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q20058561",
+      "role": {
+        "lang:es_LA": "diputado de Paraguay",
+        "lang:en_US": "deputy of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885478-ED2129CA-157E-41F9-8857-63C69CF75140",
+      "person_id": "Q51885478",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q320290",
+      "area_id": "Q51830063",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q20058561",
+      "role": {
+        "lang:es_LA": "diputado de Paraguay",
+        "lang:en_US": "deputy of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885479-69013BCC-BF1C-41DF-96B4-7119969679FB",
+      "person_id": "Q51885479",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q320290",
+      "area_id": "Q51830055",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q20058561",
+      "role": {
+        "lang:es_LA": "diputado de Paraguay",
+        "lang:en_US": "deputy of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885480-8BD377DC-C591-47E8-A050-63EE9AAF81DB",
+      "person_id": "Q51885480",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q320290",
+      "area_id": "Q51830038",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es_LA": "diputado",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q20058561",
+      "role": {
+        "lang:es_LA": "diputado de Paraguay",
+        "lang:en_US": "deputy of Paraguay"
+      }
+    }
+  ]
+}

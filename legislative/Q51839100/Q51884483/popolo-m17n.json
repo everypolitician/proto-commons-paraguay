@@ -1,0 +1,126 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Gloria Mercedes Santo de Torres",
+        "lang:en_US": "Gloria Mercedes Santo de Torres"
+      },
+      "id": "Q51885486",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885486"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "junta departmental of Guairá",
+        "lang:en_US": "departmental board of Guairá"
+      },
+      "id": "Q51839100",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839100"
+        }
+      ],
+      "area_id": "Q755116",
+      "seat_counts": {
+        "Q51842216": "13"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Colorado",
+        "lang:en_US": "Colorado Party"
+      },
+      "id": "Q928949",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q928949"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q34071"
+      ],
+      "type": {
+        "lang:es_LA": "país",
+        "lang:gn_PY": "tetã",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Republic of Paraguay",
+        "lang:es_LA": "República del Paraguay"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q755116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/departamento:guaira"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q755116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q51831959",
+        "Q51842216"
+      ],
+      "type": {
+        "lang:es_LA": "departamento de Paraguay",
+        "lang:gn_PY": "Tetãvore Paraguái",
+        "lang:en_US": "department of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "Guairá"
+      },
+      "parent_id": "Q733"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885486-0EA02D57-DD65-48B3-9B75-1009A4E456C9",
+      "person_id": "Q51885486",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51839100",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51842216",
+      "role": {
+        "lang:es_LA": "concejal departamental de Guairá",
+        "lang:en_US": "councillor for Guairá department"
+      }
+    }
+  ]
+}

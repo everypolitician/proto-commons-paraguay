@@ -1,0 +1,229 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es_LA": "Juan Carlos Barreto Miranda",
+        "lang:en_US": "Juan Carlos Barreto Miranda"
+      },
+      "id": "Q51885496",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885496"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/barretogobernador2018lista2B"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "María Portillo Verón",
+        "lang:en_US": "María Portillo Verón"
+      },
+      "id": "Q51885497",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885497"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Miguel Coronel Sosa",
+        "lang:en_US": "Miguel Coronel Sosa"
+      },
+      "id": "Q51885498",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885498"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/miguel.coronelsosa"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Alejandro Zacarías McLeod",
+        "lang:en_US": "Alejandro Zacarías McLeod"
+      },
+      "id": "Q51885499",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885499"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/AleZacariasMc"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Juan Ángel Nuñez Duarte",
+        "lang:en_US": "Juan Ángel Nuñez Duarte"
+      },
+      "id": "Q51885501",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51885501"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/LicJuanAngelN"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es_LA": "Junta Municipal de Ciudad del Este",
+        "lang:en_US": "Municipal Board of Ciudad del Este"
+      },
+      "id": "Q51839131",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839131"
+        }
+      ],
+      "area_id": "Q192235",
+      "seat_counts": {
+        "Q51842246": "9"
+      }
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Radical Auténtico",
+        "lang:en_US": "Authentic Radical Liberal Party"
+      },
+      "id": "Q2735114",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2735114"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Colorado",
+        "lang:en_US": "Colorado Party"
+      },
+      "id": "Q928949",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q928949"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885496-4B2595BB-AFDE-4289-BDC8-12E792E0DAD7",
+      "person_id": "Q51885496",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51839131",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51842246",
+      "role": {
+        "lang:es_LA": "concejal de Ciudad del Este",
+        "lang:en_US": "councillor for the city of Ciudad del Este"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885497-75081E68-CF62-4BD3-B1E0-879A8E28340F",
+      "person_id": "Q51885497",
+      "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51839131",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51842246",
+      "role": {
+        "lang:es_LA": "concejal de Ciudad del Este",
+        "lang:en_US": "councillor for the city of Ciudad del Este"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885498-89F48C76-D732-4E47-8456-33975D0A6095",
+      "person_id": "Q51885498",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51839131",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51842246",
+      "role": {
+        "lang:es_LA": "concejal de Ciudad del Este",
+        "lang:en_US": "councillor for the city of Ciudad del Este"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885499-4DC9E1D4-D1CF-4468-853A-DCA743A9EC47",
+      "person_id": "Q51885499",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51839131",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51842246",
+      "role": {
+        "lang:es_LA": "concejal de Ciudad del Este",
+        "lang:en_US": "councillor for the city of Ciudad del Este"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51885501-581421E0-96EC-4DB0-9065-2E1798564E8A",
+      "person_id": "Q51885501",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51839131",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es_LA": "concejal",
+        "lang:en_US": "councillor"
+      },
+      "role_code": "Q51842246",
+      "role": {
+        "lang:es_LA": "concejal de Ciudad del Este",
+        "lang:en_US": "councillor for the city of Ciudad del Este"
+      }
+    }
+  ]
+}
