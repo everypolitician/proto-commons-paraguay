@@ -24,7 +24,384 @@
     ],
     "name_columns": {
       "lang:es_LA": "name"
-    }  
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "gobernador del departamento de alto paraguay",
+        "position_item_id": "Q51831986"
+      },
+      {
+        "comment": "councillor for alto paraguay department",
+        "position_item_id": "Q51842239"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:alto-paraguay",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of boqueron",
+        "position_item_id": "Q51831983"
+      },
+      {
+        "comment": "councillor for boquerón department",
+        "position_item_id": "Q51842238"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:boqueron",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of presidente hayes",
+        "position_item_id": "Q51831981"
+      },
+      {
+        "comment": "councillor for presidente hayes department",
+        "position_item_id": "Q51842237"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:presidente-hayes",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of concepcion",
+        "position_item_id": "Q51831956"
+      },
+      {
+        "comment": "councillor for concepción department",
+        "position_item_id": "Q51842212"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:concepcion",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of amambay",
+        "position_item_id": "Q51831979"
+      },
+      {
+        "comment": "councillor for amambay department",
+        "position_item_id": "Q51842232"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:amambay",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of san pedro",
+        "position_item_id": "Q51831957"
+      },
+      {
+        "comment": "councillor for san pedro department",
+        "position_item_id": "Q51842213"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:san-pedro",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of canindeyu",
+        "position_item_id": "Q51831980"
+      },
+      {
+        "comment": "councillor for the department of canindeyú",
+        "position_item_id": "Q51842235"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:canindeyu",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of cordillera",
+        "position_item_id": "Q51831958"
+      },
+      {
+        "comment": "councillor for cordillera department",
+        "position_item_id": "Q51842214"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:cordillera",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of caaguazú",
+        "position_item_id": "Q51831961"
+      },
+      {
+        "comment": "councillor for the department of caaguazú",
+        "position_item_id": "Q51842217"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:caaguazu",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of alto parana",
+        "position_item_id": "Q51831976"
+      },
+      {
+        "comment": "councillor for alto paraná department",
+        "position_item_id": "Q51842229"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:alto-parana",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of central",
+        "position_item_id": "Q51831977"
+      },
+      {
+        "comment": "councillor for central department",
+        "position_item_id": "Q51842230"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:central",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of paraguari",
+        "position_item_id": "Q51831974"
+      },
+      {
+        "comment": "councillor for paraguarí department",
+        "position_item_id": "Q51842222"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:paraguari",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of guairá",
+        "position_item_id": "Q51831959"
+      },
+      {
+        "comment": "councillor for guairá department",
+        "position_item_id": "Q51842216"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:guaira",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of ñeembucu",
+        "position_item_id": "Q51831978"
+      },
+      {
+        "comment": "councillor for ñeembucú department",
+        "position_item_id": "Q51842231"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:neembucu",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "gobernador del departamento de misiones",
+        "position_item_id": "Q51831965"
+      },
+      {
+        "comment": "councillor for misiones department",
+        "position_item_id": "Q51842220"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:misiones",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "gobernador del depatamento de caazapá",
+        "position_item_id": "Q51831963"
+      },
+      {
+        "comment": "councillor for the department of caazapá",
+        "position_item_id": "Q51842218"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:caazapa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q815068",
+    "associations": [
+      {
+        "comment": "governor of the department of itapúa",
+        "position_item_id": "Q51831964"
+      },
+      {
+        "comment": "councillor for the department of itapúa",
+        "position_item_id": "Q51842219"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/departamento:itapua",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "departments",
+    "area_type_wikidata_item_id": "Q5119",
+    "associations": [
+      {
+        "comment": "municipal mayor of asuncion",
+        "position_item_id": "Q51831955"
+      },
+      {
+        "comment": "councillor for the department of asunción",
+        "position_item_id": "Q51842240"
+      }
+    ],
+    "name_columns": {
+      "lang:es_LA": "name"
+    },
+    "filter": {
+      "match": "country:py/distrito-capital:distrito-capital-de-paraguay",
+      "column": "MS_FB"
+    }
   }
 ]
-
