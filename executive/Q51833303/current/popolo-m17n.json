@@ -32,6 +32,20 @@
         }
       ],
       "area_id": "Q755116"
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Colorado",
+        "lang:en_US": "Colorado Party"
+      },
+      "id": "Q928949",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q928949"
+        }
+      ]
     }
   ],
   "areas": [
@@ -92,6 +106,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q51885484-086793D0-9E65-48EB-9CE0-1F526D931F98",
       "person_id": "Q51885484",
+      "on_behalf_of_id": "Q928949",
       "organization_id": "Q51833303",
       "area_id": "Q755116",
       "role_superclass_code": "Q51831959",

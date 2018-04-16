@@ -35,6 +35,20 @@
         }
       ],
       "area_id": "Q2933"
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Revolucionario Febrerista",
+        "lang:en_US": "Revolutionary Febrerista Party"
+      },
+      "id": "Q1477511",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1477511"
+        }
+      ]
     }
   ],
   "areas": [
@@ -95,6 +109,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q10708286-44D49D81-6143-47E7-B4F8-1D1F3AF84693",
       "person_id": "Q10708286",
+      "on_behalf_of_id": "Q1477511",
       "organization_id": "Q51833297",
       "area_id": "Q2933",
       "role_superclass_code": "Q51831955",

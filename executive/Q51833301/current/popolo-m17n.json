@@ -35,6 +35,20 @@
         }
       ],
       "area_id": "Q755121"
+    },
+    {
+      "name": {
+        "lang:es_LA": "Partido Liberal Radical Auténtico",
+        "lang:en_US": "Authentic Radical Liberal Party"
+      },
+      "id": "Q2735114",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2735114"
+        }
+      ]
     }
   ],
   "areas": [
@@ -95,6 +109,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q51885482-E060F51D-2821-4859-9AFC-08F31F523B76",
       "person_id": "Q51885482",
+      "on_behalf_of_id": "Q2735114",
       "organization_id": "Q51833301",
       "area_id": "Q755121",
       "role_superclass_code": "Q51831958",

@@ -1,1 +1,3 @@
 WARNING: Position concejal de Ciudad del Este (Q51842246) not in boundary associated_wikidata_positions
+WARNING: Position intendente municipal de Ciudad del Este (Q51885152) not in boundary associated_wikidata_positions
+WARNING: the district Ciudad del Este (Q192235) wasn't found in the boundary data for position intendente municipal de Ciudad del Este (Q51885152)
