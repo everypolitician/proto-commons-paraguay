@@ -38,7 +38,56 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q51829445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py/legislator-at-large:senate-national"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51829445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q20058559"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Senate of Paraguay"
+      },
+      "name": {
+        "lang:es_LA": "circunscripción nacional",
+        "lang:en_US": "national constituency"
+      },
+      "parent_id": "Q733"
+    },
+    {
+      "id": "Q733",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q733"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q34071"
+      ],
+      "type": {
+        "lang:es_LA": "país",
+        "lang:gn_PY": "tetã",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:en_US": "Republic of Paraguay",
+        "lang:es_LA": "República del Paraguay"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
