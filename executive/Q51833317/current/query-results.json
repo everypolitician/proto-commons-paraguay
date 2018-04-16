@@ -3,6 +3,94 @@
     "vars" : [ "statement", "item", "name_es", "name_gn", "name_en", "party", "party_name_es", "party_name_gn", "party_name_en", "district", "district_name_es", "district_name_gn", "district_name_en", "role", "role_es", "role_gn", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_es", "role_superclass_gn", "role_superclass_en", "org", "org_es", "org_gn", "org_en", "org_jurisdiction" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q372461"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Central Department"
+      },
+      "district_name_gn" : {
+        "xml:lang" : "gn",
+        "type" : "literal",
+        "value" : "Tetãvore Central"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Departamento Central"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51831977"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51831977"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of the Department of Central"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernador del Departamento Central"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of the Department of Central"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernador del Departamento Central"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51885481"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlos Alberto Saldívar"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Carlos Alberto Saldívar"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51833317"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of the Department of Central"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete del Departamento Central"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q51885481-D8103F2F-210E-4A60-B85B-684FE2AE12A8"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q372461"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "carlossaldivargobernador"
+      }
+    } ]
   }
 }
