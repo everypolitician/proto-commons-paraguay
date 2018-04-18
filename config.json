@@ -1,8 +1,8 @@
 {
-  "language_map": {
-    "lang:es_LA": "es",
-    "lang:gn_PY": "gn",
-    "lang:en_US": "en"
-  },
+  "languages": [
+    "es",
+    "gn",
+    "en"
+  ],
   "country_wikidata_id": "Q733"
 }
