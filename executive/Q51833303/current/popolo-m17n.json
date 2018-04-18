@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Javier Silvera",
-        "lang:en_US": "Javier Silvera"
+        "lang:es": "Javier Silvera",
+        "lang:en": "Javier Silvera"
       },
       "id": "Q51885484",
       "identifiers": [
@@ -20,8 +20,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "Gabinete del Departamento de Guairá",
-        "lang:en_US": "Cabinet of the Department of Guairá"
+        "lang:es": "Gabinete del Departamento de Guairá",
+        "lang:en": "Cabinet of the Department of Guairá"
       },
       "id": "Q51833303",
       "classification": "branch",
@@ -35,8 +35,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Colorado",
-        "lang:en_US": "Colorado Party"
+        "lang:es": "Partido Colorado",
+        "lang:en": "Colorado Party"
       },
       "id": "Q928949",
       "classification": "party",
@@ -65,9 +65,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -92,9 +92,9 @@
         "Q51842216"
       ],
       "type": {
-        "lang:es_LA": "departamento de Paraguay",
-        "lang:gn_PY": "Tetãvore Paraguái",
-        "lang:en_US": "department of Paraguay"
+        "lang:es": "departamento de Paraguay",
+        "lang:gn": "Tetãvore Paraguái",
+        "lang:en": "department of Paraguay"
       },
       "name": {
         "lang:es_LA": "Guairá"
@@ -111,13 +111,13 @@
       "area_id": "Q755116",
       "role_superclass_code": "Q51831959",
       "role_superclass": {
-        "lang:es_LA": "Gobernador del Departamento de Guairá",
-        "lang:en_US": "Governor of the Department of Guairá"
+        "lang:es": "Gobernador del Departamento de Guairá",
+        "lang:en": "Governor of the Department of Guairá"
       },
       "role_code": "Q51831959",
       "role": {
-        "lang:es_LA": "Gobernador del Departamento de Guairá",
-        "lang:en_US": "Governor of the Department of Guairá"
+        "lang:es": "Gobernador del Departamento de Guairá",
+        "lang:en": "Governor of the Department of Guairá"
       }
     }
   ]

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Juan Carlos Barreto Miranda",
-        "lang:en_US": "Juan Carlos Barreto Miranda"
+        "lang:es": "Juan Carlos Barreto Miranda",
+        "lang:en": "Juan Carlos Barreto Miranda"
       },
       "id": "Q51885496",
       "identifiers": [
@@ -21,8 +21,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "María Portillo Verón",
-        "lang:en_US": "María Portillo Verón"
+        "lang:es": "María Portillo Verón",
+        "lang:en": "María Portillo Verón"
       },
       "id": "Q51885497",
       "identifiers": [
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Miguel Coronel Sosa",
-        "lang:en_US": "Miguel Coronel Sosa"
+        "lang:es": "Miguel Coronel Sosa",
+        "lang:en": "Miguel Coronel Sosa"
       },
       "id": "Q51885498",
       "identifiers": [
@@ -56,8 +56,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Alejandro Zacarías McLeod",
-        "lang:en_US": "Alejandro Zacarías McLeod"
+        "lang:es": "Alejandro Zacarías McLeod",
+        "lang:en": "Alejandro Zacarías McLeod"
       },
       "id": "Q51885499",
       "identifiers": [
@@ -75,8 +75,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Ángel Nuñez Duarte",
-        "lang:en_US": "Juan Ángel Nuñez Duarte"
+        "lang:es": "Juan Ángel Nuñez Duarte",
+        "lang:en": "Juan Ángel Nuñez Duarte"
       },
       "id": "Q51885501",
       "identifiers": [
@@ -96,8 +96,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "Junta Municipal de Ciudad del Este",
-        "lang:en_US": "Municipal Board of Ciudad del Este"
+        "lang:es": "Junta Municipal de Ciudad del Este",
+        "lang:en": "Municipal Board of Ciudad del Este"
       },
       "id": "Q51839131",
       "classification": "branch",
@@ -114,8 +114,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Radical Auténtico",
-        "lang:en_US": "Authentic Radical Liberal Party"
+        "lang:es": "Partido Liberal Radical Auténtico",
+        "lang:en": "Authentic Radical Liberal Party"
       },
       "id": "Q2735114",
       "classification": "party",
@@ -128,8 +128,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Colorado",
-        "lang:en_US": "Colorado Party"
+        "lang:es": "Partido Colorado",
+        "lang:en": "Colorado Party"
       },
       "id": "Q928949",
       "classification": "party",
@@ -159,8 +159,8 @@
         "Q51842246"
       ],
       "type": {
-        "lang:es_LA": "Municipio de Paraguay",
-        "lang:en_US": "district of Paraguay"
+        "lang:es": "Municipio de Paraguay",
+        "lang:en": "district of Paraguay"
       },
       "name": {
         "lang:es_LA": "Ciudad del Este"
@@ -184,9 +184,9 @@
         "Q51842229"
       ],
       "type": {
-        "lang:es_LA": "departamento de Paraguay",
-        "lang:gn_PY": "Tetãvore Paraguái",
-        "lang:en_US": "department of Paraguay"
+        "lang:es": "departamento de Paraguay",
+        "lang:gn": "Tetãvore Paraguái",
+        "lang:en": "department of Paraguay"
       },
       "name": {
         "lang:es_LA": "Alto Paraná"
@@ -209,9 +209,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -228,13 +228,13 @@
       "organization_id": "Q51839131",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842246",
       "role": {
-        "lang:es_LA": "concejal de Ciudad del Este",
-        "lang:en_US": "councillor for the city of Ciudad del Este"
+        "lang:es": "concejal de Ciudad del Este",
+        "lang:en": "councillor for the city of Ciudad del Este"
       }
     },
     {
@@ -244,13 +244,13 @@
       "organization_id": "Q51839131",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842246",
       "role": {
-        "lang:es_LA": "concejal de Ciudad del Este",
-        "lang:en_US": "councillor for the city of Ciudad del Este"
+        "lang:es": "concejal de Ciudad del Este",
+        "lang:en": "councillor for the city of Ciudad del Este"
       }
     },
     {
@@ -260,13 +260,13 @@
       "organization_id": "Q51839131",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842246",
       "role": {
-        "lang:es_LA": "concejal de Ciudad del Este",
-        "lang:en_US": "councillor for the city of Ciudad del Este"
+        "lang:es": "concejal de Ciudad del Este",
+        "lang:en": "councillor for the city of Ciudad del Este"
       }
     },
     {
@@ -276,13 +276,13 @@
       "organization_id": "Q51839131",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842246",
       "role": {
-        "lang:es_LA": "concejal de Ciudad del Este",
-        "lang:en_US": "councillor for the city of Ciudad del Este"
+        "lang:es": "concejal de Ciudad del Este",
+        "lang:en": "councillor for the city of Ciudad del Este"
       }
     },
     {
@@ -292,13 +292,13 @@
       "organization_id": "Q51839131",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842246",
       "role": {
-        "lang:es_LA": "concejal de Ciudad del Este",
-        "lang:en_US": "councillor for the city of Ciudad del Este"
+        "lang:es": "concejal de Ciudad del Este",
+        "lang:en": "councillor for the city of Ciudad del Este"
       }
     }
   ]

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Gloria Mercedes Santo de Torres",
-        "lang:en_US": "Gloria Mercedes Santo de Torres"
+        "lang:es": "Gloria Mercedes Santo de Torres",
+        "lang:en": "Gloria Mercedes Santo de Torres"
       },
       "id": "Q51885486",
       "identifiers": [
@@ -20,8 +20,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "junta departmental of Guairá",
-        "lang:en_US": "departmental board of Guairá"
+        "lang:es": "junta departmental of Guairá",
+        "lang:en": "departmental board of Guairá"
       },
       "id": "Q51839100",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Colorado",
-        "lang:en_US": "Colorado Party"
+        "lang:es": "Partido Colorado",
+        "lang:en": "Colorado Party"
       },
       "id": "Q928949",
       "classification": "party",
@@ -68,9 +68,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -95,9 +95,9 @@
         "Q51842216"
       ],
       "type": {
-        "lang:es_LA": "departamento de Paraguay",
-        "lang:gn_PY": "Tetãvore Paraguái",
-        "lang:en_US": "department of Paraguay"
+        "lang:es": "departamento de Paraguay",
+        "lang:gn": "Tetãvore Paraguái",
+        "lang:en": "department of Paraguay"
       },
       "name": {
         "lang:es_LA": "Guairá"
@@ -113,13 +113,13 @@
       "organization_id": "Q51839100",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842216",
       "role": {
-        "lang:es_LA": "concejal departamental de Guairá",
-        "lang:en_US": "councillor for Guairá department"
+        "lang:es": "concejal departamental de Guairá",
+        "lang:en": "councillor for Guairá department"
       }
     }
   ]

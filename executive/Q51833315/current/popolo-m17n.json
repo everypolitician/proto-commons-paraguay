@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Fernando Schuster Salinas",
-        "lang:en_US": "Fernando Schuster Salinas"
+        "lang:es": "Fernando Schuster Salinas",
+        "lang:en": "Fernando Schuster Salinas"
       },
       "id": "Q51885483",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "Gabinete del Departamento de Alto Paraná",
-        "lang:en_US": "Cabinet of the Department of Alto Parana"
+        "lang:es": "Gabinete del Departamento de Alto Paraná",
+        "lang:en": "Cabinet of the Department of Alto Parana"
       },
       "id": "Q51833315",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Colorado",
-        "lang:en_US": "Colorado Party"
+        "lang:es": "Partido Colorado",
+        "lang:en": "Colorado Party"
       },
       "id": "Q928949",
       "classification": "party",
@@ -69,9 +69,9 @@
         "Q51842229"
       ],
       "type": {
-        "lang:es_LA": "departamento de Paraguay",
-        "lang:gn_PY": "Tetãvore Paraguái",
-        "lang:en_US": "department of Paraguay"
+        "lang:es": "departamento de Paraguay",
+        "lang:gn": "Tetãvore Paraguái",
+        "lang:en": "department of Paraguay"
       },
       "name": {
         "lang:es_LA": "Alto Paraná"
@@ -94,9 +94,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -114,13 +114,13 @@
       "area_id": "Q682654",
       "role_superclass_code": "Q51831976",
       "role_superclass": {
-        "lang:es_LA": "Gobernador del Departamento de Alto Paraná",
-        "lang:en_US": "Governor of the Department of Alto Parana"
+        "lang:es": "Gobernador del Departamento de Alto Paraná",
+        "lang:en": "Governor of the Department of Alto Parana"
       },
       "role_code": "Q51831976",
       "role": {
-        "lang:es_LA": "Gobernador del Departamento de Alto Paraná",
-        "lang:en_US": "Governor of the Department of Alto Parana"
+        "lang:es": "Gobernador del Departamento de Alto Paraná",
+        "lang:en": "Governor of the Department of Alto Parana"
       }
     }
   ]

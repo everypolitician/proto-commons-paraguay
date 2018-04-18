@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Carlos María López",
-        "lang:en_US": "Carlos María López"
+        "lang:es": "Carlos María López",
+        "lang:en": "Carlos María López"
       },
       "id": "Q51885482",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "Gabinete del Departamento de Cordillera",
-        "lang:en_US": "Cabinet of the Department of Cordillera"
+        "lang:es": "Gabinete del Departamento de Cordillera",
+        "lang:en": "Cabinet of the Department of Cordillera"
       },
       "id": "Q51833301",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Radical Auténtico",
-        "lang:en_US": "Authentic Radical Liberal Party"
+        "lang:es": "Partido Liberal Radical Auténtico",
+        "lang:en": "Authentic Radical Liberal Party"
       },
       "id": "Q2735114",
       "classification": "party",
@@ -68,9 +68,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -95,9 +95,9 @@
         "Q51842214"
       ],
       "type": {
-        "lang:es_LA": "departamento de Paraguay",
-        "lang:gn_PY": "Tetãvore Paraguái",
-        "lang:en_US": "department of Paraguay"
+        "lang:es": "departamento de Paraguay",
+        "lang:gn": "Tetãvore Paraguái",
+        "lang:en": "department of Paraguay"
       },
       "name": {
         "lang:es_LA": "Cordillera"
@@ -114,13 +114,13 @@
       "area_id": "Q755121",
       "role_superclass_code": "Q51831958",
       "role_superclass": {
-        "lang:es_LA": "Gobernador del Departamento de Cordillera",
-        "lang:en_US": "Governor of the Department of Cordillera"
+        "lang:es": "Gobernador del Departamento de Cordillera",
+        "lang:en": "Governor of the Department of Cordillera"
       },
       "role_code": "Q51831958",
       "role": {
-        "lang:es_LA": "Gobernador del Departamento de Cordillera",
-        "lang:en_US": "Governor of the Department of Cordillera"
+        "lang:es": "Gobernador del Departamento de Cordillera",
+        "lang:en": "Governor of the Department of Cordillera"
       }
     }
   ]

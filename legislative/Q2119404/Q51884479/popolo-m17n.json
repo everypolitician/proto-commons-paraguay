@@ -2,9 +2,9 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Fernando Lugo",
-        "lang:gn_PY": "Fernando Lugo",
-        "lang:en_US": "Fernando Lugo"
+        "lang:es": "Fernando Lugo",
+        "lang:gn": "Fernando Lugo",
+        "lang:en": "Fernando Lugo"
       },
       "id": "Q151879",
       "identifiers": [
@@ -19,7 +19,7 @@
     },
     {
       "name": {
-        "lang:en_US": "Mario Abdo Benítez"
+        "lang:en": "Mario Abdo Benítez"
       },
       "id": "Q48136013",
       "identifiers": [
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Mirta Leonor Gusinky",
-        "lang:en_US": "Mirta Leonor Gusinky"
+        "lang:es": "Mirta Leonor Gusinky",
+        "lang:en": "Mirta Leonor Gusinky"
       },
       "id": "Q51885473",
       "identifiers": [
@@ -56,8 +56,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Roberto Ramón Acevedo Quevedo",
-        "lang:en_US": "Roberto Ramón Acevedo Quevedo"
+        "lang:es": "Roberto Ramón Acevedo Quevedo",
+        "lang:en": "Roberto Ramón Acevedo Quevedo"
       },
       "id": "Q51885474",
       "identifiers": [
@@ -72,8 +72,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Desirée Graciela Masi Jara",
-        "lang:en_US": "Desirée Graciela Masi Jara"
+        "lang:es": "Desirée Graciela Masi Jara",
+        "lang:en": "Desirée Graciela Masi Jara"
       },
       "id": "Q51885475",
       "identifiers": [
@@ -93,8 +93,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "Cámara de Senadores de Paraguay",
-        "lang:en_US": "Senate of Paraguay"
+        "lang:es": "Cámara de Senadores de Paraguay",
+        "lang:en": "Senate of Paraguay"
       },
       "id": "Q2119404",
       "classification": "branch",
@@ -111,8 +111,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Frente Guasú",
-        "lang:en_US": "Frente Guasú"
+        "lang:es": "Frente Guasú",
+        "lang:en": "Frente Guasú"
       },
       "id": "Q11755876",
       "classification": "party",
@@ -125,8 +125,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Radical Auténtico",
-        "lang:en_US": "Authentic Radical Liberal Party"
+        "lang:es": "Partido Liberal Radical Auténtico",
+        "lang:en": "Authentic Radical Liberal Party"
       },
       "id": "Q2735114",
       "classification": "party",
@@ -139,8 +139,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Democrático Progresista (Paraguay)",
-        "lang:en_US": "Democratic Progressive Party"
+        "lang:es": "Partido Democrático Progresista (Paraguay)",
+        "lang:en": "Democratic Progressive Party"
       },
       "id": "Q3366435",
       "classification": "party",
@@ -153,8 +153,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Colorado",
-        "lang:en_US": "Colorado Party"
+        "lang:es": "Partido Colorado",
+        "lang:en": "Colorado Party"
       },
       "id": "Q928949",
       "classification": "party",
@@ -183,7 +183,7 @@
         "Q20058559"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Senate of Paraguay"
+        "lang:en": "Constituency of the Senate of Paraguay"
       },
       "name": {
         "lang:es_LA": "circunscripción nacional",
@@ -207,9 +207,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -227,13 +227,13 @@
       "area_id": "Q51829445",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q20058559",
       "role": {
-        "lang:es_LA": "senador de Paraguay",
-        "lang:en_US": "senator of Paraguay"
+        "lang:es": "senador de Paraguay",
+        "lang:en": "senator of Paraguay"
       }
     },
     {
@@ -244,13 +244,13 @@
       "area_id": "Q51829445",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q20058559",
       "role": {
-        "lang:es_LA": "senador de Paraguay",
-        "lang:en_US": "senator of Paraguay"
+        "lang:es": "senador de Paraguay",
+        "lang:en": "senator of Paraguay"
       }
     },
     {
@@ -261,13 +261,13 @@
       "area_id": "Q51829445",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q20058559",
       "role": {
-        "lang:es_LA": "senador de Paraguay",
-        "lang:en_US": "senator of Paraguay"
+        "lang:es": "senador de Paraguay",
+        "lang:en": "senator of Paraguay"
       }
     },
     {
@@ -278,13 +278,13 @@
       "area_id": "Q51829445",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q20058559",
       "role": {
-        "lang:es_LA": "senador de Paraguay",
-        "lang:en_US": "senator of Paraguay"
+        "lang:es": "senador de Paraguay",
+        "lang:en": "senator of Paraguay"
       }
     },
     {
@@ -295,13 +295,13 @@
       "area_id": "Q51829445",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
-        "lang:es_LA": "senador",
-        "lang:en_US": "senator"
+        "lang:es": "senador",
+        "lang:en": "senator"
       },
       "role_code": "Q20058559",
       "role": {
-        "lang:es_LA": "senador de Paraguay",
-        "lang:en_US": "senator of Paraguay"
+        "lang:es": "senador de Paraguay",
+        "lang:en": "senator of Paraguay"
       }
     }
   ]
