@@ -9,8 +9,8 @@
       }
     ],
     "name_columns": {
-      "lang:en_US": "name_en",
-      "lang:es_LA": "name_es"
+      "lang:en": "name_en",
+      "lang:es": "name_es"
     }
   },
   {
@@ -23,7 +23,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     }
   },
   {
@@ -40,7 +40,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:alto-paraguay",
@@ -61,7 +61,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:boqueron",
@@ -82,7 +82,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:presidente-hayes",
@@ -103,7 +103,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:concepcion",
@@ -124,7 +124,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:amambay",
@@ -145,7 +145,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:san-pedro",
@@ -166,7 +166,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:canindeyu",
@@ -187,7 +187,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:cordillera",
@@ -208,7 +208,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:caaguazu",
@@ -229,7 +229,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:alto-parana",
@@ -250,7 +250,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:central",
@@ -271,7 +271,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:paraguari",
@@ -292,7 +292,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:guaira",
@@ -313,7 +313,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:neembucu",
@@ -334,7 +334,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:misiones",
@@ -355,7 +355,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:caazapa",
@@ -376,7 +376,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:itapua",
@@ -397,7 +397,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/distrito-capital:distrito-capital-de-paraguay",
@@ -414,8 +414,8 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name_es",
-      "lang:en_US": "name_en"
+      "lang:es": "name_es",
+      "lang:en": "name_en"
     }
   },
   {
@@ -432,7 +432,7 @@
       }
     ],
     "name_columns": {
-      "lang:es_LA": "name"
+      "lang:es": "name"
     },
     "filter": {
       "match": "country:py/departamento:alto-parana/distrito:ciudad-del-este",
