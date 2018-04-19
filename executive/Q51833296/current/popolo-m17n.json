@@ -2,9 +2,9 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Emiliano González Navero",
-        "lang:gn_PY": "Emiliano González Navero",
-        "lang:en_US": "Emiliano González Navero"
+        "lang:es": "Emiliano González Navero",
+        "lang:gn": "Emiliano González Navero",
+        "lang:en": "Emiliano González Navero"
       },
       "id": "Q150816",
       "identifiers": [
@@ -19,9 +19,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Benigno Ferreira",
-        "lang:gn_PY": "Benigno Ferreira",
-        "lang:en_US": "Benigno Ferreira"
+        "lang:es": "Benigno Ferreira",
+        "lang:gn": "Benigno Ferreira",
+        "lang:en": "Benigno Ferreira"
       },
       "id": "Q150829",
       "identifiers": [
@@ -36,8 +36,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Marcos Antonio Morínigo",
-        "lang:en_US": "Marcos Morínigo"
+        "lang:es": "Marcos Antonio Morínigo",
+        "lang:en": "Marcos Morínigo"
       },
       "id": "Q1653461",
       "identifiers": [
@@ -52,9 +52,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Rafael Franco",
-        "lang:gn_PY": "Rafael Franco",
-        "lang:en_US": "Rafael Franco"
+        "lang:es": "Rafael Franco",
+        "lang:gn": "Rafael Franco",
+        "lang:en": "Rafael Franco"
       },
       "id": "Q1654212",
       "identifiers": [
@@ -69,9 +69,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Luis Alberto Riart",
-        "lang:gn_PY": "Luis Alberto Riart",
-        "lang:en_US": "Luis Alberto Riart"
+        "lang:es": "Luis Alberto Riart",
+        "lang:gn": "Luis Alberto Riart",
+        "lang:en": "Luis Alberto Riart"
       },
       "id": "Q1654225",
       "identifiers": [
@@ -86,8 +86,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José Patricio Guggiari",
-        "lang:en_US": "José Patricio Guggiari"
+        "lang:es": "José Patricio Guggiari",
+        "lang:en": "José Patricio Guggiari"
       },
       "id": "Q2357083",
       "identifiers": [
@@ -102,9 +102,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Eligio Ayala",
-        "lang:gn_PY": "Eligio Ayala",
-        "lang:en_US": "Eligio Ayala"
+        "lang:es": "Eligio Ayala",
+        "lang:gn": "Eligio Ayala",
+        "lang:en": "Eligio Ayala"
       },
       "id": "Q2357137",
       "identifiers": [
@@ -119,8 +119,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Cirilo Antonio Rivarola",
-        "lang:en_US": "Cirilo Antonio Rivarola"
+        "lang:es": "Cirilo Antonio Rivarola",
+        "lang:en": "Cirilo Antonio Rivarola"
       },
       "id": "Q2610334",
       "identifiers": [
@@ -135,9 +135,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Salvador Jovellanos",
-        "lang:gn_PY": "Salvador Jovellanos",
-        "lang:en_US": "Salvador Jovellanos"
+        "lang:es": "Salvador Jovellanos",
+        "lang:gn": "Salvador Jovellanos",
+        "lang:en": "Salvador Jovellanos"
       },
       "id": "Q26551",
       "identifiers": [
@@ -152,8 +152,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Higinio Uriarte",
-        "lang:en_US": "Higinio Uriarte"
+        "lang:es": "Higinio Uriarte",
+        "lang:en": "Higinio Uriarte"
       },
       "id": "Q26554",
       "identifiers": [
@@ -168,9 +168,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Bautista Gill",
-        "lang:gn_PY": "Juan Bautista Gill",
-        "lang:en_US": "Juan Bautista Gill"
+        "lang:es": "Juan Bautista Gill",
+        "lang:gn": "Juan Bautista Gill",
+        "lang:en": "Juan Bautista Gill"
       },
       "id": "Q26560",
       "identifiers": [
@@ -185,8 +185,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Carlos Wasmosy",
-        "lang:en_US": "Juan Carlos Wasmosy"
+        "lang:es": "Juan Carlos Wasmosy",
+        "lang:en": "Juan Carlos Wasmosy"
       },
       "id": "Q376549",
       "identifiers": [
@@ -201,9 +201,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Fulgencio Yegros",
-        "lang:gn_PY": "Fulgencio Yegros",
-        "lang:en_US": "Fulgencio Yegros"
+        "lang:es": "Fulgencio Yegros",
+        "lang:gn": "Fulgencio Yegros",
+        "lang:en": "Fulgencio Yegros"
       },
       "id": "Q37679",
       "identifiers": [
@@ -218,9 +218,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "José Félix Estigarribia",
-        "lang:gn_PY": "José Félix Estigarribia",
-        "lang:en_US": "José Félix Estigarribia"
+        "lang:es": "José Félix Estigarribia",
+        "lang:gn": "José Félix Estigarribia",
+        "lang:en": "José Félix Estigarribia"
       },
       "id": "Q379670",
       "identifiers": [
@@ -235,8 +235,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Pedro Pablo Peña",
-        "lang:en_US": "Pedro Peña"
+        "lang:es": "Pedro Pablo Peña",
+        "lang:en": "Pedro Peña"
       },
       "id": "Q387044",
       "identifiers": [
@@ -251,8 +251,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Adolfo Saguier",
-        "lang:en_US": "Adolfo Saguier"
+        "lang:es": "Adolfo Saguier",
+        "lang:en": "Adolfo Saguier"
       },
       "id": "Q390026",
       "identifiers": [
@@ -267,8 +267,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan José Medina",
-        "lang:en_US": "Juan José Medina"
+        "lang:es": "Juan José Medina",
+        "lang:en": "Juan José Medina"
       },
       "id": "Q430723",
       "identifiers": [
@@ -283,8 +283,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Andrés Rodríguez Pedotti",
-        "lang:en_US": "Andrés Rodríguez"
+        "lang:es": "Andrés Rodríguez Pedotti",
+        "lang:en": "Andrés Rodríguez"
       },
       "id": "Q440837",
       "identifiers": [
@@ -299,8 +299,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Raúl Cubas Grau",
-        "lang:en_US": "Raúl Cubas Grau"
+        "lang:es": "Raúl Cubas Grau",
+        "lang:en": "Raúl Cubas Grau"
       },
       "id": "Q460003",
       "identifiers": [
@@ -315,9 +315,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Eusebio Ayala",
-        "lang:gn_PY": "Eusebio Ayala",
-        "lang:en_US": "Eusebio Ayala"
+        "lang:es": "Eusebio Ayala",
+        "lang:gn": "Eusebio Ayala",
+        "lang:en": "Eusebio Ayala"
       },
       "id": "Q559950",
       "identifiers": [
@@ -332,9 +332,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Emilio Aceval",
-        "lang:gn_PY": "Emilio Aceval",
-        "lang:en_US": "Emilio Aceval"
+        "lang:es": "Emilio Aceval",
+        "lang:gn": "Emilio Aceval",
+        "lang:en": "Emilio Aceval"
       },
       "id": "Q561554",
       "identifiers": [
@@ -349,9 +349,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Horacio Cartes",
-        "lang:gn_PY": "Horacio Cartes",
-        "lang:en_US": "Horacio Cartes"
+        "lang:es": "Horacio Cartes",
+        "lang:gn": "Horacio Cartes",
+        "lang:en": "Horacio Cartes"
       },
       "id": "Q5901842",
       "identifiers": [
@@ -369,8 +369,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Tomás Romero Pereira",
-        "lang:en_US": "Tomás Romero Pereira"
+        "lang:es": "Tomás Romero Pereira",
+        "lang:en": "Tomás Romero Pereira"
       },
       "id": "Q601657",
       "identifiers": [
@@ -385,9 +385,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Manuel Frutos",
-        "lang:gn_PY": "Juan Manuel Frutos",
-        "lang:en_US": "Juan Manuel Frutos"
+        "lang:es": "Juan Manuel Frutos",
+        "lang:gn": "Juan Manuel Frutos",
+        "lang:en": "Juan Manuel Frutos"
       },
       "id": "Q628530",
       "identifiers": [
@@ -402,9 +402,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Cándido Bareiro",
-        "lang:gn_PY": "Cándido Bareiro",
-        "lang:en_US": "Cándido Bareiro"
+        "lang:es": "Cándido Bareiro",
+        "lang:gn": "Cándido Bareiro",
+        "lang:en": "Cándido Bareiro"
       },
       "id": "Q730957",
       "identifiers": [
@@ -419,8 +419,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Bernardino Caballero",
-        "lang:en_US": "Bernardino Caballero"
+        "lang:es": "Bernardino Caballero",
+        "lang:en": "Bernardino Caballero"
       },
       "id": "Q738679",
       "identifiers": [
@@ -435,8 +435,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Manuel Gondra",
-        "lang:en_US": "Manuel Gondra"
+        "lang:es": "Manuel Gondra",
+        "lang:en": "Manuel Gondra"
       },
       "id": "Q860963",
       "identifiers": [
@@ -451,9 +451,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Cecilio Báez",
-        "lang:gn_PY": "Cecilio Báez",
-        "lang:en_US": "Cecilio Báez"
+        "lang:es": "Cecilio Báez",
+        "lang:gn": "Cecilio Báez",
+        "lang:en": "Cecilio Báez"
       },
       "id": "Q860978",
       "identifiers": [
@@ -468,9 +468,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Gualberto González",
-        "lang:gn_PY": "Juan Gualberto González",
-        "lang:en_US": "Juan Gualberto González"
+        "lang:es": "Juan Gualberto González",
+        "lang:gn": "Juan Gualberto González",
+        "lang:en": "Juan Gualberto González"
       },
       "id": "Q860983",
       "identifiers": [
@@ -485,8 +485,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Manuel Franco",
-        "lang:en_US": "Manuel Franco"
+        "lang:es": "Manuel Franco",
+        "lang:en": "Manuel Franco"
       },
       "id": "Q860987",
       "identifiers": [
@@ -501,9 +501,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "José Pedro Montero",
-        "lang:gn_PY": "José Pedro Montero",
-        "lang:en_US": "José Pedro Montero"
+        "lang:es": "José Pedro Montero",
+        "lang:gn": "José Pedro Montero",
+        "lang:en": "José Pedro Montero"
       },
       "id": "Q860997",
       "identifiers": [
@@ -518,9 +518,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Eduardo Schaerer",
-        "lang:gn_PY": "Eduardo Schaerer",
-        "lang:en_US": "Eduardo Schaerer"
+        "lang:es": "Eduardo Schaerer",
+        "lang:gn": "Eduardo Schaerer",
+        "lang:en": "Eduardo Schaerer"
       },
       "id": "Q861003",
       "identifiers": [
@@ -535,8 +535,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Félix Paiva",
-        "lang:en_US": "Félix Paiva"
+        "lang:es": "Félix Paiva",
+        "lang:en": "Félix Paiva"
       },
       "id": "Q861008",
       "identifiers": [
@@ -551,8 +551,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Bautista Egusquiza",
-        "lang:en_US": "Juan Bautista Egusquiza"
+        "lang:es": "Juan Bautista Egusquiza",
+        "lang:en": "Juan Bautista Egusquiza"
       },
       "id": "Q861014",
       "identifiers": [
@@ -567,9 +567,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Natalicio González",
-        "lang:gn_PY": "Juan Natalicio González",
-        "lang:en_US": "Juan Natalicio González"
+        "lang:es": "Juan Natalicio González",
+        "lang:gn": "Juan Natalicio González",
+        "lang:en": "Juan Natalicio González"
       },
       "id": "Q861023",
       "identifiers": [
@@ -584,8 +584,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Juan Bautista Gaona",
-        "lang:en_US": "Juan Bautista Gaona"
+        "lang:es": "Juan Bautista Gaona",
+        "lang:en": "Juan Bautista Gaona"
       },
       "id": "Q861579",
       "identifiers": [
@@ -600,8 +600,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Liberato Marcial Rojas",
-        "lang:en_US": "Liberato Marcial Rojas"
+        "lang:es": "Liberato Marcial Rojas",
+        "lang:en": "Liberato Marcial Rojas"
       },
       "id": "Q861582",
       "identifiers": [
@@ -616,8 +616,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Albino Jara",
-        "lang:en_US": "Albino Jara"
+        "lang:es": "Albino Jara",
+        "lang:en": "Albino Jara"
       },
       "id": "Q861599",
       "identifiers": [
@@ -632,8 +632,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Higinio Morínigo",
-        "lang:en_US": "Higinio Moríñigo"
+        "lang:es": "Higinio Morínigo",
+        "lang:en": "Higinio Moríñigo"
       },
       "id": "Q887269",
       "identifiers": [
@@ -648,8 +648,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Federico Chaves",
-        "lang:en_US": "Federico Chávez"
+        "lang:es": "Federico Chaves",
+        "lang:en": "Federico Chávez"
       },
       "id": "Q888098",
       "identifiers": [
@@ -664,8 +664,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Mariano Roque Alonso",
-        "lang:en_US": "Mariano Roque Alonzo"
+        "lang:es": "Mariano Roque Alonso",
+        "lang:en": "Mariano Roque Alonzo"
       },
       "id": "Q888103",
       "identifiers": [
@@ -680,9 +680,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Raimundo Rolón",
-        "lang:gn_PY": "Raimundo Rolón",
-        "lang:en_US": "Raimundo Rolón"
+        "lang:es": "Raimundo Rolón",
+        "lang:gn": "Raimundo Rolón",
+        "lang:en": "Raimundo Rolón"
       },
       "id": "Q888249",
       "identifiers": [
@@ -697,9 +697,9 @@
     },
     {
       "name": {
-        "lang:es_LA": "Felipe Molas López",
-        "lang:gn_PY": "Felipe Molas López",
-        "lang:en_US": "Felipe Molas López"
+        "lang:es": "Felipe Molas López",
+        "lang:gn": "Felipe Molas López",
+        "lang:en": "Felipe Molas López"
       },
       "id": "Q888255",
       "identifiers": [
@@ -716,8 +716,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "Ministerios del Poder Ejecutivo",
-        "lang:en_US": "Ministries of Executive Power"
+        "lang:es": "Ministerios del Poder Ejecutivo",
+        "lang:en": "Ministries of Executive Power"
       },
       "id": "Q51833296",
       "classification": "branch",
@@ -731,8 +731,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Revolucionario Febrerista",
-        "lang:en_US": "Revolutionary Febrerista Party"
+        "lang:es": "Partido Revolucionario Febrerista",
+        "lang:en": "Revolutionary Febrerista Party"
       },
       "id": "Q1477511",
       "classification": "party",
@@ -745,8 +745,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Radical Auténtico",
-        "lang:en_US": "Authentic Radical Liberal Party"
+        "lang:es": "Partido Liberal Radical Auténtico",
+        "lang:en": "Authentic Radical Liberal Party"
       },
       "id": "Q2735114",
       "classification": "party",
@@ -759,7 +759,7 @@
     },
     {
       "name": {
-        "lang:en_US": "Liberal Party"
+        "lang:en": "Liberal Party"
       },
       "id": "Q6540713",
       "classification": "party",
@@ -772,8 +772,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Colorado",
-        "lang:en_US": "Colorado Party"
+        "lang:es": "Partido Colorado",
+        "lang:en": "Colorado Party"
       },
       "id": "Q928949",
       "classification": "party",
@@ -802,9 +802,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -822,15 +822,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -841,15 +841,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -860,15 +860,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -879,15 +879,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -898,15 +898,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -917,15 +917,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -936,15 +936,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -954,15 +954,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -973,15 +973,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -991,15 +991,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1010,15 +1010,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1028,15 +1028,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1047,15 +1047,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1066,15 +1066,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1084,15 +1084,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1102,15 +1102,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1121,15 +1121,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1140,15 +1140,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1159,15 +1159,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1178,15 +1178,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1197,15 +1197,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1216,15 +1216,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1234,15 +1234,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1252,15 +1252,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1271,15 +1271,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1290,15 +1290,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1309,15 +1309,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1328,15 +1328,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1347,15 +1347,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1366,15 +1366,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1385,15 +1385,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1404,15 +1404,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1423,15 +1423,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1442,15 +1442,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1461,15 +1461,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1480,15 +1480,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1498,15 +1498,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1517,15 +1517,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1535,15 +1535,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1554,15 +1554,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1573,15 +1573,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1591,15 +1591,15 @@
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     },
     {
@@ -1611,15 +1611,15 @@
       "start_date": "2013-08-15",
       "role_superclass_code": "Q34071",
       "role_superclass": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       },
       "role_code": "Q34071",
       "role": {
-        "lang:es_LA": "Presidente del Paraguay",
-        "lang:gn_PY": "Tendota Paraguaigua",
-        "lang:en_US": "President of Paraguay"
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
       }
     }
   ]

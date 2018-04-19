@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Espiridion Peña",
-        "lang:en_US": "Espiridion Peña"
+        "lang:es": "Espiridion Peña",
+        "lang:en": "Espiridion Peña"
       },
       "id": "Q51885487",
       "identifiers": [
@@ -20,8 +20,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "junta departmental de Cordillera",
-        "lang:en_US": "departmental board of Cordillera"
+        "lang:es": "junta departmental de Cordillera",
+        "lang:en": "departmental board of Cordillera"
       },
       "id": "Q51839099",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Radical Auténtico",
-        "lang:en_US": "Authentic Radical Liberal Party"
+        "lang:es": "Partido Liberal Radical Auténtico",
+        "lang:en": "Authentic Radical Liberal Party"
       },
       "id": "Q2735114",
       "classification": "party",
@@ -68,9 +68,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -95,9 +95,9 @@
         "Q51842214"
       ],
       "type": {
-        "lang:es_LA": "departamento de Paraguay",
-        "lang:gn_PY": "Tetãvore Paraguái",
-        "lang:en_US": "department of Paraguay"
+        "lang:es": "departamento de Paraguay",
+        "lang:gn": "Tetãvore Paraguái",
+        "lang:en": "department of Paraguay"
       },
       "name": {
         "lang:es_LA": "Cordillera"
@@ -113,13 +113,13 @@
       "organization_id": "Q51839099",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842214",
       "role": {
-        "lang:es_LA": "concejal departamental de Cordillera",
-        "lang:en_US": "councillor for Cordillera department"
+        "lang:es": "concejal departamental de Cordillera",
+        "lang:en": "councillor for Cordillera department"
       }
     }
   ]

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Mario Ferreiro",
-        "lang:en_US": "Mario Ferreiro"
+        "lang:es": "Mario Ferreiro",
+        "lang:en": "Mario Ferreiro"
       },
       "id": "Q10708286",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "Gabinete de Asunción",
-        "lang:en_US": "Cabinet of Asuncion"
+        "lang:es": "Gabinete de Asunción",
+        "lang:en": "Cabinet of Asuncion"
       },
       "id": "Q51833297",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Revolucionario Febrerista",
-        "lang:en_US": "Revolutionary Febrerista Party"
+        "lang:es": "Partido Revolucionario Febrerista",
+        "lang:en": "Revolutionary Febrerista Party"
       },
       "id": "Q1477511",
       "classification": "party",
@@ -69,9 +69,9 @@
         "Q51842240"
       ],
       "type": {
-        "lang:es_LA": "capital",
-        "lang:gn_PY": "tavusu",
-        "lang:en_US": "capital"
+        "lang:es": "capital",
+        "lang:gn": "tavusu",
+        "lang:en": "capital"
       },
       "name": {
         "lang:es_LA": "Distrito Capital de Paraguay"
@@ -94,9 +94,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -114,13 +114,13 @@
       "area_id": "Q2933",
       "role_superclass_code": "Q51831955",
       "role_superclass": {
-        "lang:es_LA": "Intendente municipal de Asunción",
-        "lang:en_US": "Municipal mayor of Asuncion"
+        "lang:es": "Intendente municipal de Asunción",
+        "lang:en": "Municipal mayor of Asuncion"
       },
       "role_code": "Q51831955",
       "role": {
-        "lang:es_LA": "Intendente municipal de Asunción",
-        "lang:en_US": "Municipal mayor of Asuncion"
+        "lang:es": "Intendente municipal de Asunción",
+        "lang:en": "Municipal mayor of Asuncion"
       }
     }
   ]

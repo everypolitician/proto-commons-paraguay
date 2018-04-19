@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Augusto Alberto Wagner",
-        "lang:en_US": "Augusto Alberto Wagner"
+        "lang:es": "Augusto Alberto Wagner",
+        "lang:en": "Augusto Alberto Wagner"
       },
       "id": "Q51885488",
       "identifiers": [
@@ -21,8 +21,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Hugo Ramírez Ibarra",
-        "lang:en_US": "Hugo Ramírez Ibarra"
+        "lang:es": "Hugo Ramírez Ibarra",
+        "lang:en": "Hugo Ramírez Ibarra"
       },
       "id": "Q51885491",
       "identifiers": [
@@ -40,8 +40,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Daniel Centurión González",
-        "lang:en_US": "Daniel Centurión González"
+        "lang:es": "Daniel Centurión González",
+        "lang:en": "Daniel Centurión González"
       },
       "id": "Q51885492",
       "identifiers": [
@@ -59,8 +59,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Martín Arévalo Fernández",
-        "lang:en_US": "Martín Arévalo Fernández"
+        "lang:es": "Martín Arévalo Fernández",
+        "lang:en": "Martín Arévalo Fernández"
       },
       "id": "Q51885494",
       "identifiers": [
@@ -75,8 +75,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Silvia Fabiana Benegas de Sánchez",
-        "lang:en_US": "Silvia Fabiana Benegas de Sánchez"
+        "lang:es": "Silvia Fabiana Benegas de Sánchez",
+        "lang:en": "Silvia Fabiana Benegas de Sánchez"
       },
       "id": "Q51885495",
       "identifiers": [
@@ -96,8 +96,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "Junta Municipal de Asunción",
-        "lang:en_US": "Municipal Board of Asuncion"
+        "lang:es": "Junta Municipal de Asunción",
+        "lang:en": "Municipal Board of Asuncion"
       },
       "id": "Q51839125",
       "classification": "branch",
@@ -114,8 +114,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Radical Auténtico",
-        "lang:en_US": "Authentic Radical Liberal Party"
+        "lang:es": "Partido Liberal Radical Auténtico",
+        "lang:en": "Authentic Radical Liberal Party"
       },
       "id": "Q2735114",
       "classification": "party",
@@ -128,8 +128,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Colorado",
-        "lang:en_US": "Colorado Party"
+        "lang:es": "Partido Colorado",
+        "lang:en": "Colorado Party"
       },
       "id": "Q928949",
       "classification": "party",
@@ -159,9 +159,9 @@
         "Q51842240"
       ],
       "type": {
-        "lang:es_LA": "capital",
-        "lang:gn_PY": "tavusu",
-        "lang:en_US": "capital"
+        "lang:es": "capital",
+        "lang:gn": "tavusu",
+        "lang:en": "capital"
       },
       "name": {
         "lang:es_LA": "Distrito Capital de Paraguay"
@@ -184,9 +184,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -203,13 +203,13 @@
       "organization_id": "Q51839125",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842240",
       "role": {
-        "lang:es_LA": "concejal de Asunción",
-        "lang:en_US": "councillor for the city of Asunción"
+        "lang:es": "concejal de Asunción",
+        "lang:en": "councillor for the city of Asunción"
       }
     },
     {
@@ -219,13 +219,13 @@
       "organization_id": "Q51839125",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842240",
       "role": {
-        "lang:es_LA": "concejal de Asunción",
-        "lang:en_US": "councillor for the city of Asunción"
+        "lang:es": "concejal de Asunción",
+        "lang:en": "councillor for the city of Asunción"
       }
     },
     {
@@ -235,13 +235,13 @@
       "organization_id": "Q51839125",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842240",
       "role": {
-        "lang:es_LA": "concejal de Asunción",
-        "lang:en_US": "councillor for the city of Asunción"
+        "lang:es": "concejal de Asunción",
+        "lang:en": "councillor for the city of Asunción"
       }
     },
     {
@@ -251,13 +251,13 @@
       "organization_id": "Q51839125",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842240",
       "role": {
-        "lang:es_LA": "concejal de Asunción",
-        "lang:en_US": "councillor for the city of Asunción"
+        "lang:es": "concejal de Asunción",
+        "lang:en": "councillor for the city of Asunción"
       }
     },
     {
@@ -267,13 +267,13 @@
       "organization_id": "Q51839125",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842240",
       "role": {
-        "lang:es_LA": "concejal de Asunción",
-        "lang:en_US": "councillor for the city of Asunción"
+        "lang:es": "concejal de Asunción",
+        "lang:en": "councillor for the city of Asunción"
       }
     }
   ]

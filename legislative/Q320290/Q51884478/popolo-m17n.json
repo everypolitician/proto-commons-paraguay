@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Edgar Acosta Alcaráz",
-        "lang:en_US": "Edgar Acosta Alcaráz"
+        "lang:es": "Edgar Acosta Alcaráz",
+        "lang:en": "Edgar Acosta Alcaráz"
       },
       "id": "Q51885476",
       "identifiers": [
@@ -21,8 +21,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Perla Teresa Beatriz Acosta de Vázquez",
-        "lang:en_US": "Perla Teresa Beatriz Acosta de Vázquez"
+        "lang:es": "Perla Teresa Beatriz Acosta de Vázquez",
+        "lang:en": "Perla Teresa Beatriz Acosta de Vázquez"
       },
       "id": "Q51885477",
       "identifiers": [
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "José Domingo Adorno Mazacotte",
-        "lang:en_US": "José Domingo Adorno Mazacotte"
+        "lang:es": "José Domingo Adorno Mazacotte",
+        "lang:en": "José Domingo Adorno Mazacotte"
       },
       "id": "Q51885478",
       "identifiers": [
@@ -53,8 +53,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Pedro Lorenzo Alliana Rodríguez",
-        "lang:en_US": "Pedro Lorenzo Alliana Rodríguez"
+        "lang:es": "Pedro Lorenzo Alliana Rodríguez",
+        "lang:en": "Pedro Lorenzo Alliana Rodríguez"
       },
       "id": "Q51885479",
       "identifiers": [
@@ -72,8 +72,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Eusebio Alvarenga Martínez",
-        "lang:en_US": "Eusebio Alvarenga Martínez"
+        "lang:es": "Eusebio Alvarenga Martínez",
+        "lang:en": "Eusebio Alvarenga Martínez"
       },
       "id": "Q51885480",
       "identifiers": [
@@ -93,8 +93,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "Cámara de Diputados de Paraguay",
-        "lang:en_US": "Chamber of Deputies"
+        "lang:es": "Cámara de Diputados de Paraguay",
+        "lang:en": "Chamber of Deputies"
       },
       "id": "Q320290",
       "classification": "branch",
@@ -111,8 +111,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Radical Auténtico",
-        "lang:en_US": "Authentic Radical Liberal Party"
+        "lang:es": "Partido Liberal Radical Auténtico",
+        "lang:en": "Authentic Radical Liberal Party"
       },
       "id": "Q2735114",
       "classification": "party",
@@ -125,8 +125,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Colorado",
-        "lang:en_US": "Colorado Party"
+        "lang:es": "Partido Colorado",
+        "lang:en": "Colorado Party"
       },
       "id": "Q928949",
       "classification": "party",
@@ -155,7 +155,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Distrito Capital de Paraguay"
@@ -178,7 +178,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Concepción"
@@ -201,7 +201,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "San Pedro"
@@ -224,7 +224,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Cordillera"
@@ -247,7 +247,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Guairá"
@@ -270,7 +270,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Caaguazú"
@@ -293,7 +293,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Caazapá"
@@ -316,7 +316,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Itapúa"
@@ -339,7 +339,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Misiones"
@@ -362,7 +362,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Paraguarí"
@@ -385,7 +385,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Alto Paraná"
@@ -408,7 +408,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Departamento Central"
@@ -431,7 +431,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Ñeembucú"
@@ -454,7 +454,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Amambay"
@@ -477,7 +477,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Canindeyú"
@@ -500,7 +500,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Presidente Hayes"
@@ -523,7 +523,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Boquerón"
@@ -546,7 +546,7 @@
         "Q20058561"
       ],
       "type": {
-        "lang:en_US": "constituency of the chamber of deputies of Paraguay"
+        "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
         "lang:es_LA": "Alto Paraguay"
@@ -569,9 +569,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -589,13 +589,13 @@
       "area_id": "Q51830053",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q20058561",
       "role": {
-        "lang:es_LA": "diputado de Paraguay",
-        "lang:en_US": "deputy of Paraguay"
+        "lang:es": "diputado de Paraguay",
+        "lang:en": "deputy of Paraguay"
       }
     },
     {
@@ -606,13 +606,13 @@
       "area_id": "Q51830036",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q20058561",
       "role": {
-        "lang:es_LA": "diputado de Paraguay",
-        "lang:en_US": "deputy of Paraguay"
+        "lang:es": "diputado de Paraguay",
+        "lang:en": "deputy of Paraguay"
       }
     },
     {
@@ -623,13 +623,13 @@
       "area_id": "Q51830063",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q20058561",
       "role": {
-        "lang:es_LA": "diputado de Paraguay",
-        "lang:en_US": "deputy of Paraguay"
+        "lang:es": "diputado de Paraguay",
+        "lang:en": "deputy of Paraguay"
       }
     },
     {
@@ -640,13 +640,13 @@
       "area_id": "Q51830055",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q20058561",
       "role": {
-        "lang:es_LA": "diputado de Paraguay",
-        "lang:en_US": "deputy of Paraguay"
+        "lang:es": "diputado de Paraguay",
+        "lang:en": "deputy of Paraguay"
       }
     },
     {
@@ -657,13 +657,13 @@
       "area_id": "Q51830038",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
-        "lang:es_LA": "diputado",
-        "lang:en_US": "deputy"
+        "lang:es": "diputado",
+        "lang:en": "deputy"
       },
       "role_code": "Q20058561",
       "role": {
-        "lang:es_LA": "diputado de Paraguay",
-        "lang:en_US": "deputy of Paraguay"
+        "lang:es": "diputado de Paraguay",
+        "lang:en": "deputy of Paraguay"
       }
     }
   ]

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Cristhian Ariel Delvalle Salas",
-        "lang:en_US": "Cristhian Ariel Delvalle Salas"
+        "lang:es": "Cristhian Ariel Delvalle Salas",
+        "lang:en": "Cristhian Ariel Delvalle Salas"
       },
       "id": "Q51885489",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "junta departmental de San Pedro",
-        "lang:en_US": "departmental board of San Pedro"
+        "lang:es": "junta departmental de San Pedro",
+        "lang:en": "departmental board of San Pedro"
       },
       "id": "Q51839098",
       "classification": "branch",
@@ -41,8 +41,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Liberal Radical Auténtico",
-        "lang:en_US": "Authentic Radical Liberal Party"
+        "lang:es": "Partido Liberal Radical Auténtico",
+        "lang:en": "Authentic Radical Liberal Party"
       },
       "id": "Q2735114",
       "classification": "party",
@@ -72,9 +72,9 @@
         "Q51842213"
       ],
       "type": {
-        "lang:es_LA": "departamento de Paraguay",
-        "lang:gn_PY": "Tetãvore Paraguái",
-        "lang:en_US": "department of Paraguay"
+        "lang:es": "departamento de Paraguay",
+        "lang:gn": "Tetãvore Paraguái",
+        "lang:en": "department of Paraguay"
       },
       "name": {
         "lang:es_LA": "San Pedro"
@@ -97,9 +97,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -116,13 +116,13 @@
       "organization_id": "Q51839098",
       "role_superclass_code": "Q708492",
       "role_superclass": {
-        "lang:es_LA": "concejal",
-        "lang:en_US": "councillor"
+        "lang:es": "concejal",
+        "lang:en": "councillor"
       },
       "role_code": "Q51842213",
       "role": {
-        "lang:es_LA": "concejal departamental de San Pedro",
-        "lang:en_US": "councillor for San Pedro department"
+        "lang:es": "concejal departamental de San Pedro",
+        "lang:en": "councillor for San Pedro department"
       }
     }
   ]

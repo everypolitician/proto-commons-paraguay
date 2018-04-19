@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:es_LA": "Sandra María McLeod de Zacarías",
-        "lang:en_US": "Sandra María McLeod de Zacarías"
+        "lang:es": "Sandra María McLeod de Zacarías",
+        "lang:en": "Sandra María McLeod de Zacarías"
       },
       "id": "Q51885490",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:es_LA": "gabinete de Ciudad del Este",
-        "lang:en_US": "cabinet of Ciudad del Este"
+        "lang:es": "gabinete de Ciudad del Este",
+        "lang:en": "cabinet of Ciudad del Este"
       },
       "id": "Q51885159",
       "classification": "branch",
@@ -38,8 +38,8 @@
     },
     {
       "name": {
-        "lang:es_LA": "Partido Colorado",
-        "lang:en_US": "Colorado Party"
+        "lang:es": "Partido Colorado",
+        "lang:en": "Colorado Party"
       },
       "id": "Q928949",
       "classification": "party",
@@ -69,8 +69,8 @@
         "Q51842246"
       ],
       "type": {
-        "lang:es_LA": "Municipio de Paraguay",
-        "lang:en_US": "district of Paraguay"
+        "lang:es": "Municipio de Paraguay",
+        "lang:en": "district of Paraguay"
       },
       "name": {
         "lang:es_LA": "Ciudad del Este"
@@ -94,9 +94,9 @@
         "Q51842229"
       ],
       "type": {
-        "lang:es_LA": "departamento de Paraguay",
-        "lang:gn_PY": "Tetãvore Paraguái",
-        "lang:en_US": "department of Paraguay"
+        "lang:es": "departamento de Paraguay",
+        "lang:gn": "Tetãvore Paraguái",
+        "lang:en": "department of Paraguay"
       },
       "name": {
         "lang:es_LA": "Alto Paraná"
@@ -119,9 +119,9 @@
         "Q34071"
       ],
       "type": {
-        "lang:es_LA": "país",
-        "lang:gn_PY": "tetã",
-        "lang:en_US": "country"
+        "lang:es": "país",
+        "lang:gn": "tetã",
+        "lang:en": "country"
       },
       "name": {
         "lang:en_US": "Republic of Paraguay",
@@ -139,13 +139,13 @@
       "area_id": "Q192235",
       "role_superclass_code": "Q51885152",
       "role_superclass": {
-        "lang:es_LA": "intendente municipal de Ciudad del Este",
-        "lang:en_US": "municipal mayor of Ciudad del Este"
+        "lang:es": "intendente municipal de Ciudad del Este",
+        "lang:en": "municipal mayor of Ciudad del Este"
       },
       "role_code": "Q51885152",
       "role": {
-        "lang:es_LA": "intendente municipal de Ciudad del Este",
-        "lang:en_US": "municipal mayor of Ciudad del Este"
+        "lang:es": "intendente municipal de Ciudad del Este",
+        "lang:en": "municipal mayor of Ciudad del Este"
       }
     }
   ]
