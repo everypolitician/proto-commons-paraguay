@@ -27,8 +27,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Republic of Paraguay",
-        "lang:es_LA": "República del Paraguay"
+        "lang:en": "Republic of Paraguay",
+        "lang:es": "República del Paraguay"
       },
       "parent_id": null
     },
@@ -54,7 +54,7 @@
         "lang:en": "department of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Caazapá"
+        "lang:es": "Caazapá"
       },
       "parent_id": "Q733"
     }

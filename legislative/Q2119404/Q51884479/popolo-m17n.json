@@ -186,8 +186,8 @@
         "lang:en": "Constituency of the Senate of Paraguay"
       },
       "name": {
-        "lang:es_LA": "circunscripción nacional",
-        "lang:en_US": "national constituency"
+        "lang:es": "circunscripción nacional",
+        "lang:en": "national constituency"
       },
       "parent_id": "Q733"
     },
@@ -212,8 +212,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Republic of Paraguay",
-        "lang:es_LA": "República del Paraguay"
+        "lang:en": "Republic of Paraguay",
+        "lang:es": "República del Paraguay"
       },
       "parent_id": null
     }
