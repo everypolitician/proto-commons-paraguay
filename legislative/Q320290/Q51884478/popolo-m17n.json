@@ -158,7 +158,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Distrito Capital de Paraguay"
+        "lang:es": "Distrito Capital de Paraguay"
       },
       "parent_id": "Q733"
     },
@@ -181,7 +181,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Concepción"
+        "lang:es": "Concepción"
       },
       "parent_id": "Q733"
     },
@@ -204,7 +204,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "San Pedro"
+        "lang:es": "San Pedro"
       },
       "parent_id": "Q733"
     },
@@ -227,7 +227,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Cordillera"
+        "lang:es": "Cordillera"
       },
       "parent_id": "Q733"
     },
@@ -250,7 +250,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Guairá"
+        "lang:es": "Guairá"
       },
       "parent_id": "Q733"
     },
@@ -273,7 +273,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Caaguazú"
+        "lang:es": "Caaguazú"
       },
       "parent_id": "Q733"
     },
@@ -296,7 +296,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Caazapá"
+        "lang:es": "Caazapá"
       },
       "parent_id": "Q733"
     },
@@ -319,7 +319,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Itapúa"
+        "lang:es": "Itapúa"
       },
       "parent_id": "Q733"
     },
@@ -342,7 +342,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Misiones"
+        "lang:es": "Misiones"
       },
       "parent_id": "Q733"
     },
@@ -365,7 +365,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Paraguarí"
+        "lang:es": "Paraguarí"
       },
       "parent_id": "Q733"
     },
@@ -388,7 +388,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Alto Paraná"
+        "lang:es": "Alto Paraná"
       },
       "parent_id": "Q733"
     },
@@ -411,7 +411,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Departamento Central"
+        "lang:es": "Departamento Central"
       },
       "parent_id": "Q733"
     },
@@ -434,7 +434,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Ñeembucú"
+        "lang:es": "Ñeembucú"
       },
       "parent_id": "Q733"
     },
@@ -457,7 +457,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Amambay"
+        "lang:es": "Amambay"
       },
       "parent_id": "Q733"
     },
@@ -480,7 +480,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Canindeyú"
+        "lang:es": "Canindeyú"
       },
       "parent_id": "Q733"
     },
@@ -503,7 +503,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Presidente Hayes"
+        "lang:es": "Presidente Hayes"
       },
       "parent_id": "Q733"
     },
@@ -526,7 +526,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Boquerón"
+        "lang:es": "Boquerón"
       },
       "parent_id": "Q733"
     },
@@ -549,7 +549,7 @@
         "lang:en": "constituency of the chamber of deputies of Paraguay"
       },
       "name": {
-        "lang:es_LA": "Alto Paraguay"
+        "lang:es": "Alto Paraguay"
       },
       "parent_id": "Q733"
     },
@@ -574,8 +574,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:en_US": "Republic of Paraguay",
-        "lang:es_LA": "República del Paraguay"
+        "lang:en": "Republic of Paraguay",
+        "lang:es": "República del Paraguay"
       },
       "parent_id": null
     }
