@@ -8,6 +8,7 @@ SELECT ?statement
        ?org ?org_es ?org_gn ?org_en ?org_jurisdiction ?org_seat_count
 WHERE {
   BIND(wd:Q20058561 as ?role) .
+  BIND(wd:Q20058561 as ?specific_role) .
   BIND(wd:Q320290 as ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_es
@@ -47,7 +48,7 @@ OPTIONAL {
   FILTER(LANG(?name_en) = "en")
 }
 
-  ?statement ps:P39 ?role .
+  ?statement ps:P39 ?specific_role .
   OPTIONAL {
   ?role rdfs:label ?role_es
   FILTER(LANG(?role_es) = "es")
@@ -82,7 +83,7 @@ OPTIONAL {
 }
 
   }
-  ?statement pq:P2937 wd:Q51884478 .
+  ?statement pq:P2937 wd:Q55647713 .
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
