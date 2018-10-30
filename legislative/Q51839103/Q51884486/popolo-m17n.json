@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "junta departmental de Itapúa",
+        "lang:en": "departmental board of Itapua"
+      },
+      "id": "Q51839103",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839103"
+        }
+      ],
+      "area_id": "Q222564",
+      "seat_counts": {
+        "Q51842219": "21"
+      }
+    }
   ],
   "areas": [
     {

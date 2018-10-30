@@ -112,11 +112,6 @@
       "on_behalf_of_id": "Q928949",
       "organization_id": "Q51833315",
       "area_id": "Q682654",
-      "role_superclass_code": "Q51831976",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de Alto Paraná",
-        "lang:en": "Governor of the Department of Alto Parana"
-      },
       "role_code": "Q51831976",
       "role": {
         "lang:es": "Gobernador del Departamento de Alto Paraná",

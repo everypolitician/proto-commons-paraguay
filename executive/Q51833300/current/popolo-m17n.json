@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Carlos Giménez"
+      },
+      "id": "Q56760420",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56760420"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de San Pedro",
+        "lang:en": "Cabinet of the Department of San Pedro"
+      },
+      "id": "Q51833300",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833300"
+        }
+      ],
+      "area_id": "Q526176"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,16 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56760420-1B4D078C-D730-49DA-9E65-45EB5BED5B78",
+      "person_id": "Q56760420",
+      "organization_id": "Q51833300",
+      "area_id": "Q526176",
+      "role_code": "Q51831957",
+      "role": {
+        "lang:es": "Gobernador del Departamento de San Pedro",
+        "lang:en": "Governor of the Department of San Pedro"
+      }
+    }
   ]
 }

@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Edgar López"
+      },
+      "id": "Q56760390",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56760390"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de Concepción",
+        "lang:en": "Cabinet of the Department of Concepcion"
+      },
+      "id": "Q51833299",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833299"
+        }
+      ],
+      "area_id": "Q741009"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,16 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56760390-A1BF10CB-FC92-4E9D-AED3-D21D3C5BC1FE",
+      "person_id": "Q56760390",
+      "organization_id": "Q51833299",
+      "area_id": "Q741009",
+      "role_code": "Q51831956",
+      "role": {
+        "lang:es": "Gobernador del Departamento de Concepción",
+        "lang:en": "Governor of the Department of Concepcion"
+      }
+    }
   ]
 }

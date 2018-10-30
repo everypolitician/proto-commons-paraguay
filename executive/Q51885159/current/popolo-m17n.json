@@ -18,6 +18,36 @@
           "url": "https://www.facebook.com/SandraZacariasMcLeod"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Sandra Mcleod Zacarias"
+      },
+      "id": "Q56479529",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56479529"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sandra Mcleod Zacarias"
+      },
+      "id": "Q56479530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56479530"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -137,10 +167,42 @@
       "on_behalf_of_id": "Q928949",
       "organization_id": "Q51885159",
       "area_id": "Q192235",
-      "role_superclass_code": "Q51885152",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q51885152",
+      "role": {
         "lang:es": "intendente municipal de Ciudad del Este",
         "lang:en": "municipal mayor of Ciudad del Este"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56479529-E6936DC3-8B2F-451A-AC47-7D147D5AC636",
+      "person_id": "Q56479529",
+      "organization_id": "Q51885159",
+      "area_id": "Q192235",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q51885152",
+      "role": {
+        "lang:es": "intendente municipal de Ciudad del Este",
+        "lang:en": "municipal mayor of Ciudad del Este"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56479530-7BCBC3D9-714C-4197-B3F2-F34AE6967764",
+      "person_id": "Q56479530",
+      "organization_id": "Q51885159",
+      "area_id": "Q192235",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
       },
       "role_code": "Q51885152",
       "role": {

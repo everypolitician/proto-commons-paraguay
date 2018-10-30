@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "junta departmental de Central",
+        "lang:en": "departmental board of Central"
+      },
+      "id": "Q51839115",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839115"
+        }
+      ],
+      "area_id": "Q372461",
+      "seat_counts": {
+        "Q51842230": "21"
+      }
+    }
   ],
   "areas": [
     {

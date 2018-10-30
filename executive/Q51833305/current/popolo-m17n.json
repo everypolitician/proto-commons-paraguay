@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Pedro Alejandro Diaz Verón"
+      },
+      "id": "Q56760407",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56760407"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de Caazapá",
+        "lang:en": "Cabinet of the Department of Caazapá"
+      },
+      "id": "Q51833305",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833305"
+        }
+      ],
+      "area_id": "Q881839"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,27 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56760407-8BCD871A-B757-43FD-8845-35624EEFF9FD",
+      "person_id": "Q56760407",
+      "organization_id": "Q51833305",
+      "area_id": "Q881839",
+      "role_code": "Q51831963",
+      "role": {
+        "lang:es": "Governor of the Department of Caazapá",
+        "lang:en": "Gobernador del Depatamento de Caazapá"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56760407-AD8AB864-86F3-4205-B000-F77D2D3F5182",
+      "person_id": "Q56760407",
+      "organization_id": "Q51833305",
+      "area_id": "Q881839",
+      "role_code": "Q51831963",
+      "role": {
+        "lang:es": "Governor of the Department of Caazapá",
+        "lang:en": "Gobernador del Depatamento de Caazapá"
+      }
+    }
   ]
 }

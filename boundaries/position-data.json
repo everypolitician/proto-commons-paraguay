@@ -1,0 +1,459 @@
+[
+  {
+    "role_id": "Q20058559",
+    "role_name": {
+      "lang:es": "senador de Paraguay",
+      "lang:en": "senator of Paraguay"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:es": "senador",
+      "lang:en": "senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q2119404",
+    "organization_name": {
+      "lang:es": "Cámara de Senadores de Paraguay",
+      "lang:en": "Senate of Paraguay"
+    }
+  },
+  {
+    "role_id": "Q20058561",
+    "role_name": {
+      "lang:es": "diputado de Paraguay",
+      "lang:en": "deputy of Paraguay"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q320290",
+    "organization_name": {
+      "lang:es": "Cámara de Diputados de Paraguay",
+      "lang:en": "Chamber of Deputies"
+    }
+  },
+  {
+    "role_id": "Q51831955",
+    "role_name": {
+      "lang:es": "Intendente municipal de Asunción",
+      "lang:en": "Municipal mayor of Asuncion"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": null,
+    "organization_id": "Q51833297",
+    "organization_name": {
+      "lang:es": "Gabinete de Asunción",
+      "lang:en": "Cabinet of Asuncion"
+    }
+  },
+  {
+    "role_id": "Q51842212",
+    "role_name": {
+      "lang:es": "concejal departamental de Concepción",
+      "lang:en": "councillor for Concepción department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839097",
+    "organization_name": {
+      "lang:es": "junta departmental de Concepción",
+      "lang:en": "departmental board of Concepcion"
+    }
+  },
+  {
+    "role_id": "Q51842213",
+    "role_name": {
+      "lang:es": "concejal departamental de San Pedro",
+      "lang:en": "councillor for San Pedro department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839098",
+    "organization_name": {
+      "lang:es": "junta departmental de San Pedro",
+      "lang:en": "departmental board of San Pedro"
+    }
+  },
+  {
+    "role_id": "Q51842214",
+    "role_name": {
+      "lang:es": "concejal departamental de Cordillera",
+      "lang:en": "councillor for Cordillera department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839099",
+    "organization_name": {
+      "lang:es": "junta departmental de Cordillera",
+      "lang:en": "departmental board of Cordillera"
+    }
+  },
+  {
+    "role_id": "Q51842216",
+    "role_name": {
+      "lang:es": "concejal departamental de Guairá",
+      "lang:en": "councillor for Guairá department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839100",
+    "organization_name": {
+      "lang:es": "junta departmental of Guairá",
+      "lang:en": "departmental board of Guairá"
+    }
+  },
+  {
+    "role_id": "Q51842217",
+    "role_name": {
+      "lang:es": "concejal departamental de Caaguazú",
+      "lang:en": "councillor for the department of Caaguazú"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839101",
+    "organization_name": {
+      "lang:es": "junta departmental de Caaguazú",
+      "lang:en": "departmental board of Caaguazu"
+    }
+  },
+  {
+    "role_id": "Q51842218",
+    "role_name": {
+      "lang:es": "concejal departamental de Caazapá",
+      "lang:en": "councillor for the department of Caazapá"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839102",
+    "organization_name": {
+      "lang:es": "junta departmental de Caazapá",
+      "lang:en": "departmental board of Caazapa"
+    }
+  },
+  {
+    "role_id": "Q51842219",
+    "role_name": {
+      "lang:es": "concejal departamental de Itapúa",
+      "lang:en": "councillor for the department of Itapúa"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839103",
+    "organization_name": {
+      "lang:es": "junta departmental de Itapúa",
+      "lang:en": "departmental board of Itapua"
+    }
+  },
+  {
+    "role_id": "Q51842220",
+    "role_name": {
+      "lang:es": "concejal departamental de Misiones",
+      "lang:en": "councillor for Misiones department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839104",
+    "organization_name": {
+      "lang:es": "junta departmental de Misiones",
+      "lang:en": "departmental board of Misiones"
+    }
+  },
+  {
+    "role_id": "Q51842222",
+    "role_name": {
+      "lang:es": "concejal departamental de Paraguarí",
+      "lang:en": "councillor for Paraguarí department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839107",
+    "organization_name": {
+      "lang:es": "junta departmental de Paraguarí",
+      "lang:en": "departmental board of Paraguari"
+    }
+  },
+  {
+    "role_id": "Q51842229",
+    "role_name": {
+      "lang:es": "concejal departamental de Alto Paraná",
+      "lang:en": "councillor for Alto Paraná department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839114",
+    "organization_name": {
+      "lang:es": "junta departmental de Alto Paraná",
+      "lang:en": "departmental board of Alto Parana"
+    }
+  },
+  {
+    "role_id": "Q51842230",
+    "role_name": {
+      "lang:es": "concejal departamental de departamento Central",
+      "lang:en": "councillor for Central department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839115",
+    "organization_name": {
+      "lang:es": "junta departmental de Central",
+      "lang:en": "departmental board of Central"
+    }
+  },
+  {
+    "role_id": "Q51842231",
+    "role_name": {
+      "lang:es": "concejal departamental de Ñeembucú",
+      "lang:en": "councillor for Ñeembucú department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839117",
+    "organization_name": {
+      "lang:es": "junta departmental de Ñeembucú",
+      "lang:en": "departmental board of Ñeembucú"
+    }
+  },
+  {
+    "role_id": "Q51842232",
+    "role_name": {
+      "lang:es": "concejal departamental de Amambay",
+      "lang:en": "councillor for Amambay department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839118",
+    "organization_name": {
+      "lang:es": "junta departmental de Amambay",
+      "lang:en": "departmental board of Amambay"
+    }
+  },
+  {
+    "role_id": "Q51842235",
+    "role_name": {
+      "lang:es": "concejal departamental de Canindeyú",
+      "lang:en": "councillor for the department of Canindeyú"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839120",
+    "organization_name": {
+      "lang:es": "junta departmental de Canindeyú",
+      "lang:en": "departmental board of Canindeyú"
+    }
+  },
+  {
+    "role_id": "Q51842237",
+    "role_name": {
+      "lang:es": "concejal departamental de Presidente Hayes",
+      "lang:en": "councillor for Presidente Hayes department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839121",
+    "organization_name": {
+      "lang:es": "junta departmental de Presidente Hayes",
+      "lang:en": "departmental board of Presidente Hayes"
+    }
+  },
+  {
+    "role_id": "Q51842238",
+    "role_name": {
+      "lang:es": "concejal departamental de Boquerón",
+      "lang:en": "councillor for Boquerón department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839123",
+    "organization_name": {
+      "lang:es": "junta departmental of Boquerón",
+      "lang:en": "departmental board of Boqueron"
+    }
+  },
+  {
+    "role_id": "Q51842239",
+    "role_name": {
+      "lang:es": "concejal departamental de Alto Paraguay",
+      "lang:en": "councillor for Alto Paraguay department"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839124",
+    "organization_name": {
+      "lang:es": "junta departmental de Alto Paraguay",
+      "lang:en": "departmental board of Alto Paraguay"
+    }
+  },
+  {
+    "role_id": "Q51842240",
+    "role_name": {
+      "lang:es": "concejal de Asunción",
+      "lang:en": "councillor for the city of Asunción"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839125",
+    "organization_name": {
+      "lang:es": "Junta Municipal de Asunción",
+      "lang:en": "Municipal Board of Asuncion"
+    }
+  },
+  {
+    "role_id": "Q51842246",
+    "role_name": {
+      "lang:es": "concejal de Ciudad del Este",
+      "lang:en": "councillor for the city of Ciudad del Este"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q51839131",
+    "organization_name": {
+      "lang:es": "Junta Municipal de Ciudad del Este",
+      "lang:en": "Municipal Board of Ciudad del Este"
+    }
+  },
+  {
+    "role_id": "Q51885152",
+    "role_name": {
+      "lang:es": "intendente municipal de Ciudad del Este",
+      "lang:en": "municipal mayor of Ciudad del Este"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q515",
+    "role_type": null,
+    "organization_id": "Q51885159",
+    "organization_name": {
+      "lang:es": "gabinete de Ciudad del Este",
+      "lang:en": "cabinet of Ciudad del Este"
+    }
+  },
+  {
+    "role_id": "Q34071",
+    "role_name": {
+      "lang:es": "ExPresidente del Paraguay",
+      "lang:gn": "Tendota Paraguaigua",
+      "lang:en": "President of Paraguay"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:es": "jefe de Gobierno",
+      "lang:en": "head of government"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q51833296",
+    "organization_name": {
+      "lang:es": "Ministerios del Poder Ejecutivo",
+      "lang:en": "Ministries of Executive Power"
+    }
+  }
+]

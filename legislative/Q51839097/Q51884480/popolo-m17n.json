@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "junta departmental de Concepción",
+        "lang:en": "departmental board of Concepcion"
+      },
+      "id": "Q51839097",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839097"
+        }
+      ],
+      "area_id": "Q741009",
+      "seat_counts": {
+        "Q51842212": "12"
+      }
+    }
   ],
   "areas": [
     {

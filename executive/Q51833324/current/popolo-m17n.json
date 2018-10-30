@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Antonio Saldivar"
+      },
+      "id": "Q56479525",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56479525"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de Presidente Hayes",
+        "lang:en": "Cabinet of the Department of Presidente Hayes"
+      },
+      "id": "Q51833324",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833324"
+        }
+      ],
+      "area_id": "Q750551"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,16 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56479525-AEDCAE66-6A8E-4614-8289-2E415D7430E0",
+      "person_id": "Q56479525",
+      "organization_id": "Q51833324",
+      "area_id": "Q750551",
+      "role_code": "Q51831981",
+      "role": {
+        "lang:es": "Gobernador del Departamento de Presidente Hayes",
+        "lang:en": "Governor of the Department of Presidente Hayes"
+      }
+    }
   ]
 }

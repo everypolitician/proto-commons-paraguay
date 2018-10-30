@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Cesar Ramírez"
+      },
+      "id": "Q56479523",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56479523"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de Canindeyú",
+        "lang:en": "Cabinet of the Department of Canindeyú"
+      },
+      "id": "Q51833322",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833322"
+        }
+      ],
+      "area_id": "Q279085"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,16 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56479523-7A6D2C88-C4E2-4522-8EA2-34CC377140D7",
+      "person_id": "Q56479523",
+      "organization_id": "Q51833322",
+      "area_id": "Q279085",
+      "role_code": "Q51831980",
+      "role": {
+        "lang:es": "Gobernador del Departamento de Canindeyú",
+        "lang:en": "Governor of the Department of Canindeyu"
+      }
+    }
   ]
 }
