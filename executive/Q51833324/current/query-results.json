@@ -3,6 +3,71 @@
     "vars" : [ "statement", "item", "name_es", "name_gn", "name_en", "party", "party_name_es", "party_name_gn", "party_name_en", "district", "district_name_es", "district_name_gn", "district_name_en", "role", "role_es", "role_gn", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_es", "role_superclass_gn", "role_superclass_en", "org", "org_es", "org_gn", "org_en", "org_jurisdiction" ]
   },
   "results" : {
-    "bindings" : [ ]
+    "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q56479525-AEDCAE66-6A8E-4614-8289-2E415D7430E0"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56479525"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Antonio Saldivar"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q750551"
+      },
+      "district_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Presidente Hayes"
+      },
+      "district_name_gn" : {
+        "xml:lang" : "gn",
+        "type" : "literal",
+        "value" : "Tetãvore Presidente Hayes"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Presidente Hayes Department"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51831981"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobernador del Departamento de Presidente Hayes"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Governor of the Department of Presidente Hayes"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51833324"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete del Departamento de Presidente Hayes"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of the Department of Presidente Hayes"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q750551"
+      }
+    } ]
   }
 }
