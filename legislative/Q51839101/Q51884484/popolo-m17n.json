@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "junta departmental de Caaguazú",
+        "lang:en": "departmental board of Caaguazu"
+      },
+      "id": "Q51839101",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839101"
+        }
+      ],
+      "area_id": "Q880399",
+      "seat_counts": {
+        "Q51842217": "20"
+      }
+    }
   ],
   "areas": [
     {

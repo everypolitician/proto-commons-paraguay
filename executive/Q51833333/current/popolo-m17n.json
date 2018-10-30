@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Mino Adorno"
+      },
+      "id": "Q56760397",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56760397"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de Alto Paraguay",
+        "lang:en": "Cabinet of the Department of Alto Paraguay"
+      },
+      "id": "Q51833333",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833333"
+        }
+      ],
+      "area_id": "Q682642"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,16 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56760397-00924CC0-4429-4C54-9C59-4601850F3746",
+      "person_id": "Q56760397",
+      "organization_id": "Q51833333",
+      "area_id": "Q682642",
+      "role_code": "Q51831986",
+      "role": {
+        "lang:es": "Governor of the Department of Alto Paraguay",
+        "lang:en": "Gobernador del Departamento de Alto Paraguay"
+      }
+    }
   ]
 }

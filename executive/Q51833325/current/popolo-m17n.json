@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Dario Medina"
+      },
+      "id": "Q56760417",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56760417"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de Boquerón",
+        "lang:en": "Cabinet of the Department of Boquerón"
+      },
+      "id": "Q51833325",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833325"
+        }
+      ],
+      "area_id": "Q741017"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,16 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56760417-8F4E8EC6-7BC7-441D-B553-3A7CA1C58B9B",
+      "person_id": "Q56760417",
+      "organization_id": "Q51833325",
+      "area_id": "Q741017",
+      "role_code": "Q51831983",
+      "role": {
+        "lang:es": "Gobernador del Departamento de Boquerón",
+        "lang:en": "Governor of the Department of Boqueron"
+      }
+    }
   ]
 }

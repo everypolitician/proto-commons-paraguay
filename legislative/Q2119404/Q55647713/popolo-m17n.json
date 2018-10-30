@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Cámara de Senadores de Paraguay",
+        "lang:en": "Senate of Paraguay"
+      },
+      "id": "Q2119404",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2119404"
+        }
+      ],
+      "area_id": "Q733",
+      "seat_counts": {
+        "Q20058559": "45"
+      }
+    }
   ],
   "areas": [
     {
