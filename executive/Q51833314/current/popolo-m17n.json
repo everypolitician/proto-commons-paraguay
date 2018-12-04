@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Juan Carlos"
+      },
+      "id": "Q56760423",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56760423"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de Paraguarí",
+        "lang:en": "Cabinet of the Department of Paraguari"
+      },
+      "id": "Q51833314",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833314"
+        }
+      ],
+      "area_id": "Q240014"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56760423-4A4C114B-D2F3-4D43-9D08-6209B59C8367",
+      "person_id": "Q56760423",
+      "organization_id": "Q51833314",
+      "area_id": "Q240014",
+      "role_superclass_code": "Q51831974",
+      "role_superclass": {
+        "lang:es": "Gobernador del Departamento de Paraguarí",
+        "lang:en": "Governor of the Department of Paraguari"
+      },
+      "role_code": "Q51831974",
+      "role": {
+        "lang:es": "Gobernador del Departamento de Paraguarí",
+        "lang:en": "Governor of the Department of Paraguari"
+      }
+    }
   ]
 }

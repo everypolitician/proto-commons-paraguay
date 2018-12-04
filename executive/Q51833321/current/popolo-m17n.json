@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Ronald Acevedo"
+      },
+      "id": "Q56479522",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56479522"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de Amambay",
+        "lang:en": "Cabinet of the Department of Amambay"
+      },
+      "id": "Q51833321",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833321"
+        }
+      ],
+      "area_id": "Q686586"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56479522-E6758207-8642-49CD-AB1E-58282A302656",
+      "person_id": "Q56479522",
+      "organization_id": "Q51833321",
+      "area_id": "Q686586",
+      "role_superclass_code": "Q51831979",
+      "role_superclass": {
+        "lang:es": "Gobernador del Departamento de Amambay",
+        "lang:en": "Governor of the Department of Amambay"
+      },
+      "role_code": "Q51831979",
+      "role": {
+        "lang:es": "Gobernador del Departamento de Amambay",
+        "lang:en": "Governor of the Department of Amambay"
+      }
+    }
   ]
 }

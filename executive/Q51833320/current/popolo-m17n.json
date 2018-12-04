@@ -1,9 +1,38 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Carlos Silva",
+        "lang:en": "Carlos Silva"
+      },
+      "id": "Q56084887",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56084887"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de Ñeembucú",
+        "lang:en": "Cabinet of the Department of Ñeembucú"
+      },
+      "id": "Q51833320",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833320"
+        }
+      ],
+      "area_id": "Q755115"
+    }
   ],
   "areas": [
     {
@@ -60,6 +89,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56084887-B185919F-DE0D-45B4-99C3-0AC47B3A8198",
+      "person_id": "Q56084887",
+      "organization_id": "Q51833320",
+      "area_id": "Q755115",
+      "role_superclass_code": "Q51831978",
+      "role_superclass": {
+        "lang:es": "Gobernador del Departamento de Ñeembucú",
+        "lang:en": "Governor of the Department of Ñeembucu"
+      },
+      "role_code": "Q51831978",
+      "role": {
+        "lang:es": "Gobernador del Departamento de Ñeembucú",
+        "lang:en": "Governor of the Department of Ñeembucu"
+      }
+    }
   ]
 }

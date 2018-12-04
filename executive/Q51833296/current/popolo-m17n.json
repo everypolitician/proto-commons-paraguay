@@ -315,6 +315,26 @@
     },
     {
       "name": {
+        "lang:es": "Mario Abdo Benítez",
+        "lang:gn": "Mario Abdo Benítez",
+        "lang:en": "Mario Abdo Benítez"
+      },
+      "id": "Q48136013",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48136013"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MaritoAbdo2018"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Eusebio Ayala",
         "lang:gn": "Eusebio Ayala",
         "lang:en": "Eusebio Ayala"
@@ -345,26 +365,6 @@
       ],
       "links": [
 
-      ]
-    },
-    {
-      "name": {
-        "lang:es": "Horacio Cartes",
-        "lang:gn": "Horacio Cartes",
-        "lang:en": "Horacio Cartes"
-      },
-      "id": "Q5901842",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5901842"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/horaciocartesoficial"
-        }
       ]
     },
     {
@@ -1059,6 +1059,25 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q379670-D25DA434-786E-4AED-8E95-A997DBC03F92",
+      "person_id": "Q379670",
+      "on_behalf_of_id": "Q6540713",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q387044-349C4749-1B0B-48E6-8698-31919E3C5EC1",
       "person_id": "Q387044",
       "on_behalf_of_id": "Q928949",
@@ -1138,6 +1157,26 @@
       "on_behalf_of_id": "Q928949",
       "organization_id": "Q51833296",
       "area_id": "Q733",
+      "role_superclass_code": "Q34071",
+      "role_superclass": {
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
+      },
+      "role_code": "Q34071",
+      "role": {
+        "lang:es": "Presidente del Paraguay",
+        "lang:gn": "Tendota Paraguaigua",
+        "lang:en": "President of Paraguay"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48136013-5fbbb60c-4046-ed79-8375-39b6ffe71bc1",
+      "person_id": "Q48136013",
+      "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833296",
+      "area_id": "Q733",
+      "start_date": "2018-08-15",
       "role_superclass_code": "Q34071",
       "role_superclass": {
         "lang:es": "Presidente del Paraguay",
@@ -1248,6 +1287,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q738679-32E5A48E-E67E-4C57-9B91-AC9A1A91B37C",
       "person_id": "Q738679",
+      "on_behalf_of_id": "Q928949",
       "organization_id": "Q51833296",
       "area_id": "Q733",
       "role_superclass_code": "Q34071",
@@ -1589,26 +1629,6 @@
       "person_id": "Q26560",
       "organization_id": "Q51833296",
       "area_id": "Q733",
-      "role_superclass_code": "Q34071",
-      "role_superclass": {
-        "lang:es": "Presidente del Paraguay",
-        "lang:gn": "Tendota Paraguaigua",
-        "lang:en": "President of Paraguay"
-      },
-      "role_code": "Q34071",
-      "role": {
-        "lang:es": "Presidente del Paraguay",
-        "lang:gn": "Tendota Paraguaigua",
-        "lang:en": "President of Paraguay"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/q5901842-6b26ba7d-4422-8aea-e0cb-ddd936d7c476",
-      "person_id": "Q5901842",
-      "on_behalf_of_id": "Q928949",
-      "organization_id": "Q51833296",
-      "area_id": "Q733",
-      "start_date": "2013-08-15",
       "role_superclass_code": "Q34071",
       "role_superclass": {
         "lang:es": "Presidente del Paraguay",

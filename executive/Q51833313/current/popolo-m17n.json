@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Carlos Arrechea"
+      },
+      "id": "Q56760432",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56760432"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de Misiones",
+        "lang:en": "Cabinet of the Department of Misiones"
+      },
+      "id": "Q51833313",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833313"
+        }
+      ],
+      "area_id": "Q591194"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56760432-E51DF19E-7F8B-498E-B7AB-E8DFE6826964",
+      "person_id": "Q56760432",
+      "organization_id": "Q51833313",
+      "area_id": "Q591194",
+      "role_superclass_code": "Q51831965",
+      "role_superclass": {
+        "lang:es": "Governor of the Department of Misiones",
+        "lang:en": "Gobernador del Departamento de Misiones"
+      },
+      "role_code": "Q51831965",
+      "role": {
+        "lang:es": "Governor of the Department of Misiones",
+        "lang:en": "Gobernador del Departamento de Misiones"
+      }
+    }
   ]
 }

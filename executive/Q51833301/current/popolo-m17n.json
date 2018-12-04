@@ -18,6 +18,21 @@
           "url": "https://www.facebook.com/carlosmaria.lopez.5"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Hugo Fleitas"
+      },
+      "id": "Q56760411",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56760411"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -110,6 +125,22 @@
       "id": "http://www.wikidata.org/entity/statement/Q51885482-E060F51D-2821-4859-9AFC-08F31F523B76",
       "person_id": "Q51885482",
       "on_behalf_of_id": "Q2735114",
+      "organization_id": "Q51833301",
+      "area_id": "Q755121",
+      "role_superclass_code": "Q51831958",
+      "role_superclass": {
+        "lang:es": "Gobernador del Departamento de Cordillera",
+        "lang:en": "Governor of the Department of Cordillera"
+      },
+      "role_code": "Q51831958",
+      "role": {
+        "lang:es": "Gobernador del Departamento de Cordillera",
+        "lang:en": "Governor of the Department of Cordillera"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56760411-92BD94BE-C727-478E-9125-EC444869FC9C",
+      "person_id": "Q56760411",
       "organization_id": "Q51833301",
       "area_id": "Q755121",
       "role_superclass_code": "Q51831958",

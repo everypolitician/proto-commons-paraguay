@@ -1,9 +1,37 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Federico Vergara"
+      },
+      "id": "Q56084891",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56084891"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gabinete del Departamento de Itapúa",
+        "lang:en": "Cabinet of the Department of Itapúa"
+      },
+      "id": "Q51833306",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51833306"
+        }
+      ],
+      "area_id": "Q222564"
+    }
   ],
   "areas": [
     {
@@ -60,6 +88,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56084891-A1C38793-302F-479C-ADCA-08981843B37F",
+      "person_id": "Q56084891",
+      "organization_id": "Q51833306",
+      "area_id": "Q222564",
+      "role_superclass_code": "Q51831964",
+      "role_superclass": {
+        "lang:es": "Gobernador del Departamento de Itapúa",
+        "lang:en": "Governor of the Department of Itapúa"
+      },
+      "role_code": "Q51831964",
+      "role": {
+        "lang:es": "Gobernador del Departamento de Itapúa",
+        "lang:en": "Governor of the Department of Itapúa"
+      }
+    }
   ]
 }

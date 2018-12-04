@@ -15,6 +15,21 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Carlos Vera"
+      },
+      "id": "Q56760426",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56760426"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -107,6 +122,22 @@
       "id": "http://www.wikidata.org/entity/statement/Q51885484-086793D0-9E65-48EB-9CE0-1F526D931F98",
       "person_id": "Q51885484",
       "on_behalf_of_id": "Q928949",
+      "organization_id": "Q51833303",
+      "area_id": "Q755116",
+      "role_superclass_code": "Q51831959",
+      "role_superclass": {
+        "lang:es": "Gobernador del Departamento de Guairá",
+        "lang:en": "Governor of the Department of Guairá"
+      },
+      "role_code": "Q51831959",
+      "role": {
+        "lang:es": "Gobernador del Departamento de Guairá",
+        "lang:en": "Governor of the Department of Guairá"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56760426-4BF2A766-081C-434C-BDA3-2EEB3D489767",
+      "person_id": "Q56760426",
       "organization_id": "Q51833303",
       "area_id": "Q755116",
       "role_superclass_code": "Q51831959",
