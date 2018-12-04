@@ -1,6 +1,7 @@
 [
   {
     "comment": "Ministries of Executive Power",
+    "area_id": "Q733",
     "executive_item_id": "Q51833296",
     "positions": [
       {
@@ -11,6 +12,7 @@
   },
   {
     "comment": "Cabinet of Asuncion",
+    "area_id": "Q2933",
     "executive_item_id": "Q51833297",
     "positions": [
       {
@@ -21,6 +23,7 @@
   },
   {
     "comment": "Cabinet of the Department of Concepcion",
+    "area_id": "Q741009",
     "executive_item_id": "Q51833299",
     "positions": [
       {
@@ -31,6 +34,7 @@
   },
   {
     "comment": "Cabinet of the Department of San Pedro",
+    "area_id": "Q526176",
     "executive_item_id": "Q51833300",
     "positions": [
       {
@@ -41,6 +45,7 @@
   },
   {
     "comment": "Cabinet of the Department of Cordillera",
+    "area_id": "Q755121",
     "executive_item_id": "Q51833301",
     "positions": [
       {
@@ -51,6 +56,7 @@
   },
   {
     "comment": "Cabinet of the Department of Guairá",
+    "area_id": "Q755116",
     "executive_item_id": "Q51833303",
     "positions": [
       {
@@ -61,6 +67,7 @@
   },
   {
     "comment": "Cabinet of the Department of Caaguazú",
+    "area_id": "Q880399",
     "executive_item_id": "Q51833304",
     "positions": [
       {
@@ -71,6 +78,7 @@
   },
   {
     "comment": "Cabinet of the Department of Caazapá",
+    "area_id": "Q881839",
     "executive_item_id": "Q51833305",
     "positions": [
       {
@@ -81,6 +89,7 @@
   },
   {
     "comment": "Cabinet of the Department of Itapúa",
+    "area_id": "Q222564",
     "executive_item_id": "Q51833306",
     "positions": [
       {
@@ -91,6 +100,7 @@
   },
   {
     "comment": "Cabinet of the Department of Misiones",
+    "area_id": "Q591194",
     "executive_item_id": "Q51833313",
     "positions": [
       {
@@ -101,6 +111,7 @@
   },
   {
     "comment": "Cabinet of the Department of Paraguari",
+    "area_id": "Q240014",
     "executive_item_id": "Q51833314",
     "positions": [
       {
@@ -111,6 +122,7 @@
   },
   {
     "comment": "Cabinet of the Department of Alto Parana",
+    "area_id": "Q682654",
     "executive_item_id": "Q51833315",
     "positions": [
       {
@@ -121,6 +133,7 @@
   },
   {
     "comment": "Cabinet of the Department of Central",
+    "area_id": "Q372461",
     "executive_item_id": "Q51833317",
     "positions": [
       {
@@ -131,6 +144,7 @@
   },
   {
     "comment": "Cabinet of the Department of Ñeembucú",
+    "area_id": "Q755115",
     "executive_item_id": "Q51833320",
     "positions": [
       {
@@ -141,6 +155,7 @@
   },
   {
     "comment": "Cabinet of the Department of Amambay",
+    "area_id": "Q686586",
     "executive_item_id": "Q51833321",
     "positions": [
       {
@@ -151,6 +166,7 @@
   },
   {
     "comment": "Cabinet of the Department of Canindeyú",
+    "area_id": "Q279085",
     "executive_item_id": "Q51833322",
     "positions": [
       {
@@ -161,6 +177,7 @@
   },
   {
     "comment": "Cabinet of the Department of Presidente Hayes",
+    "area_id": "Q750551",
     "executive_item_id": "Q51833324",
     "positions": [
       {
@@ -171,6 +188,7 @@
   },
   {
     "comment": "Cabinet of the Department of Boquerón",
+    "area_id": "Q741017",
     "executive_item_id": "Q51833325",
     "positions": [
       {
@@ -181,6 +199,7 @@
   },
   {
     "comment": "Cabinet of the Department of Alto Paraguay",
+    "area_id": "Q682642",
     "executive_item_id": "Q51833333",
     "positions": [
       {
