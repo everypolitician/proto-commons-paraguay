@@ -16,6 +16,10 @@
     "position_item_id": "Q20058561",
     "terms": [
       {
+        "comment": "honorable chamber of deputies of Paraguay 2018-",
+        "term_item_id": "Q56736355"
+      },
+      {
         "comment": "Congress of Paraguay 2018-2023",
         "term_item_id": "Q55647713"
       }
@@ -27,8 +31,8 @@
     "position_item_id": "Q51842212",
     "terms": [
       {
-        "comment": "honorable departmental board of Concepcion 2013-2018",
-        "term_item_id": "Q51884480"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -38,8 +42,8 @@
     "position_item_id": "Q51842213",
     "terms": [
       {
-        "comment": "honorable departmental board of San Pedro 2013-2018",
-        "term_item_id": "Q51884481"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -49,8 +53,8 @@
     "position_item_id": "Q51842214",
     "terms": [
       {
-        "comment": "honorable departmental board of Cordillera 2013-2018",
-        "term_item_id": "Q51884482"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -60,8 +64,8 @@
     "position_item_id": "Q51842216",
     "terms": [
       {
-        "comment": "honorable departmental board of Guaira 2013-2018",
-        "term_item_id": "Q51884483"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -71,8 +75,8 @@
     "position_item_id": "Q51842217",
     "terms": [
       {
-        "comment": "honorable departmental board of Caaguazú 2013-2018",
-        "term_item_id": "Q51884484"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -82,8 +86,8 @@
     "position_item_id": "Q51842218",
     "terms": [
       {
-        "comment": "honorable departmental board of Caazapa 2013-2018",
-        "term_item_id": "Q51884485"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -93,8 +97,8 @@
     "position_item_id": "Q51842219",
     "terms": [
       {
-        "comment": "honorable departmental board of Itapua 2013-2018",
-        "term_item_id": "Q51884486"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -104,8 +108,8 @@
     "position_item_id": "Q51842220",
     "terms": [
       {
-        "comment": "honorable departmental board of Misiones 2013-2018",
-        "term_item_id": "Q51884488"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -115,8 +119,8 @@
     "position_item_id": "Q51842222",
     "terms": [
       {
-        "comment": "honorable departmental board of Paraguari 2013-2018",
-        "term_item_id": "Q51884489"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -126,8 +130,8 @@
     "position_item_id": "Q51842229",
     "terms": [
       {
-        "comment": "honorable departmental board of Alto Parana 2013-2018",
-        "term_item_id": "Q51884490"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -137,8 +141,8 @@
     "position_item_id": "Q51842230",
     "terms": [
       {
-        "comment": "honorable departmental board of Central 2013-2018",
-        "term_item_id": "Q51884491"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -148,8 +152,8 @@
     "position_item_id": "Q51842231",
     "terms": [
       {
-        "comment": "honorable departmental board of Ñeembucú 2013-2018",
-        "term_item_id": "Q51884492"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -159,8 +163,8 @@
     "position_item_id": "Q51842232",
     "terms": [
       {
-        "comment": "honorable departmental board of Amambay 2013-2018",
-        "term_item_id": "Q51884493"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -170,8 +174,8 @@
     "position_item_id": "Q51842235",
     "terms": [
       {
-        "comment": "honorable departmental board of Canindeyú 2013-2018",
-        "term_item_id": "Q51884494"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -181,8 +185,8 @@
     "position_item_id": "Q51842237",
     "terms": [
       {
-        "comment": "honorable departmental board of Presidente Hayes 2013-2018",
-        "term_item_id": "Q51884495"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -192,8 +196,8 @@
     "position_item_id": "Q51842238",
     "terms": [
       {
-        "comment": "honorable departmental board of Boqueron 2013-2018",
-        "term_item_id": "Q51884497"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -203,8 +207,8 @@
     "position_item_id": "Q51842239",
     "terms": [
       {
-        "comment": "honorable departmental board of Alto Paraguay 2013-2018",
-        "term_item_id": "Q51884498"
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   },
@@ -216,17 +220,6 @@
       {
         "comment": "honorable municipal board of Asuncion 2015-2020",
         "term_item_id": "Q51884499"
-      }
-    ]
-  },
-  {
-    "comment": "Municipal Board of Ciudad del Este",
-    "house_item_id": "Q51839131",
-    "position_item_id": "Q51842246",
-    "terms": [
-      {
-        "comment": "honorable municipal board of Ciudad del Este 2015-2020",
-        "term_item_id": "Q51884500"
       }
     ]
   }
