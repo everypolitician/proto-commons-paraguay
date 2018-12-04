@@ -93,11 +93,6 @@
       "person_id": "Q56760432",
       "organization_id": "Q51833313",
       "area_id": "Q591194",
-      "role_superclass_code": "Q51831965",
-      "role_superclass": {
-        "lang:es": "Governor of the Department of Misiones",
-        "lang:en": "Gobernador del Departamento de Misiones"
-      },
       "role_code": "Q51831965",
       "role": {
         "lang:es": "Governor of the Department of Misiones",

@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "junta departmental de Canindeyú",
+        "lang:en": "departmental board of Canindeyú"
+      },
+      "id": "Q51839120",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839120"
+        }
+      ],
+      "area_id": "Q279085",
+      "seat_counts": {
+        "Q51842235": "10"
+      }
+    }
   ],
   "areas": [
     {

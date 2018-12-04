@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "junta departmental de Paraguarí",
+        "lang:en": "departmental board of Paraguari"
+      },
+      "id": "Q51839107",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839107"
+        }
+      ],
+      "area_id": "Q240014",
+      "seat_counts": {
+        "Q51842222": "15"
+      }
+    }
   ],
   "areas": [
     {

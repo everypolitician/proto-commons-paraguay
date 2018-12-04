@@ -93,11 +93,6 @@
       "person_id": "Q56760420",
       "organization_id": "Q51833300",
       "area_id": "Q526176",
-      "role_superclass_code": "Q51831957",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de San Pedro",
-        "lang:en": "Governor of the Department of San Pedro"
-      },
       "role_code": "Q51831957",
       "role": {
         "lang:es": "Gobernador del Departamento de San Pedro",

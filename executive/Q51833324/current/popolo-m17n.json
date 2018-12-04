@@ -93,11 +93,6 @@
       "person_id": "Q56479525",
       "organization_id": "Q51833324",
       "area_id": "Q750551",
-      "role_superclass_code": "Q51831981",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de Presidente Hayes",
-        "lang:en": "Governor of the Department of Presidente Hayes"
-      },
       "role_code": "Q51831981",
       "role": {
         "lang:es": "Gobernador del Departamento de Presidente Hayes",

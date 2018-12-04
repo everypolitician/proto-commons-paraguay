@@ -93,11 +93,6 @@
       "person_id": "Q56760417",
       "organization_id": "Q51833325",
       "area_id": "Q741017",
-      "role_superclass_code": "Q51831983",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de Boquerón",
-        "lang:en": "Governor of the Department of Boqueron"
-      },
       "role_code": "Q51831983",
       "role": {
         "lang:es": "Gobernador del Departamento de Boquerón",

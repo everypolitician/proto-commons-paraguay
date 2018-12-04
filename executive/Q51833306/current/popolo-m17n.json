@@ -93,11 +93,6 @@
       "person_id": "Q56084891",
       "organization_id": "Q51833306",
       "area_id": "Q222564",
-      "role_superclass_code": "Q51831964",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de Itapúa",
-        "lang:en": "Governor of the Department of Itapúa"
-      },
       "role_code": "Q51831964",
       "role": {
         "lang:es": "Gobernador del Departamento de Itapúa",

@@ -124,11 +124,6 @@
       "on_behalf_of_id": "Q928949",
       "organization_id": "Q51833303",
       "area_id": "Q755116",
-      "role_superclass_code": "Q51831959",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de Guairá",
-        "lang:en": "Governor of the Department of Guairá"
-      },
       "role_code": "Q51831959",
       "role": {
         "lang:es": "Gobernador del Departamento de Guairá",
@@ -140,11 +135,6 @@
       "person_id": "Q56760426",
       "organization_id": "Q51833303",
       "area_id": "Q755116",
-      "role_superclass_code": "Q51831959",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de Guairá",
-        "lang:en": "Governor of the Department of Guairá"
-      },
       "role_code": "Q51831959",
       "role": {
         "lang:es": "Gobernador del Departamento de Guairá",

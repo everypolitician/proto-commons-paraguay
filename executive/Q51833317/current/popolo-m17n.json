@@ -127,11 +127,6 @@
       "on_behalf_of_id": "Q928949",
       "organization_id": "Q51833317",
       "area_id": "Q372461",
-      "role_superclass_code": "Q51831977",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento Central",
-        "lang:en": "Governor of the Department of Central"
-      },
       "role_code": "Q51831977",
       "role": {
         "lang:es": "Gobernador del Departamento Central",
@@ -143,11 +138,6 @@
       "person_id": "Q55669888",
       "organization_id": "Q51833317",
       "area_id": "Q372461",
-      "role_superclass_code": "Q51831977",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento Central",
-        "lang:en": "Governor of the Department of Central"
-      },
       "role_code": "Q51831977",
       "role": {
         "lang:es": "Gobernador del Departamento Central",

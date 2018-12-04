@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Cámara de Diputados de Paraguay",
+        "lang:en": "Chamber of Deputies"
+      },
+      "id": "Q320290",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q320290"
+        }
+      ],
+      "area_id": "Q733",
+      "seat_counts": {
+        "Q20058561": "80"
+      }
+    }
   ],
   "areas": [
     {

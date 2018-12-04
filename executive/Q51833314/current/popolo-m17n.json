@@ -93,11 +93,6 @@
       "person_id": "Q56760423",
       "organization_id": "Q51833314",
       "area_id": "Q240014",
-      "role_superclass_code": "Q51831974",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de Paraguarí",
-        "lang:en": "Governor of the Department of Paraguari"
-      },
       "role_code": "Q51831974",
       "role": {
         "lang:es": "Gobernador del Departamento de Paraguarí",

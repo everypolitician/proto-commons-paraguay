@@ -127,11 +127,6 @@
       "on_behalf_of_id": "Q2735114",
       "organization_id": "Q51833301",
       "area_id": "Q755121",
-      "role_superclass_code": "Q51831958",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de Cordillera",
-        "lang:en": "Governor of the Department of Cordillera"
-      },
       "role_code": "Q51831958",
       "role": {
         "lang:es": "Gobernador del Departamento de Cordillera",
@@ -143,11 +138,6 @@
       "person_id": "Q56760411",
       "organization_id": "Q51833301",
       "area_id": "Q755121",
-      "role_superclass_code": "Q51831958",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de Cordillera",
-        "lang:en": "Governor of the Department of Cordillera"
-      },
       "role_code": "Q51831958",
       "role": {
         "lang:es": "Gobernador del Departamento de Cordillera",

@@ -93,11 +93,6 @@
       "person_id": "Q56479523",
       "organization_id": "Q51833322",
       "area_id": "Q279085",
-      "role_superclass_code": "Q51831980",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de Canindeyú",
-        "lang:en": "Governor of the Department of Canindeyu"
-      },
       "role_code": "Q51831980",
       "role": {
         "lang:es": "Gobernador del Departamento de Canindeyú",

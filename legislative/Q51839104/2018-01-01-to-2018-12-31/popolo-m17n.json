@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "junta departmental de Misiones",
+        "lang:en": "departmental board of Misiones"
+      },
+      "id": "Q51839104",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839104"
+        }
+      ],
+      "area_id": "Q591194",
+      "seat_counts": {
+        "Q51842220": "10"
+      }
+    }
   ],
   "areas": [
     {

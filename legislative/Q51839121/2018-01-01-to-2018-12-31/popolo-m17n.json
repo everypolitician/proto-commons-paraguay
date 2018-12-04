@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "junta departmental de Presidente Hayes",
+        "lang:en": "departmental board of Presidente Hayes"
+      },
+      "id": "Q51839121",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839121"
+        }
+      ],
+      "area_id": "Q750551",
+      "seat_counts": {
+        "Q51842237": "8"
+      }
+    }
   ],
   "areas": [
     {

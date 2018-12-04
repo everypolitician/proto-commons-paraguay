@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "junta departmental of Boquerón",
+        "lang:en": "departmental board of Boqueron"
+      },
+      "id": "Q51839123",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839123"
+        }
+      ],
+      "area_id": "Q741017",
+      "seat_counts": {
+        "Q51842238": "7"
+      }
+    }
   ],
   "areas": [
     {

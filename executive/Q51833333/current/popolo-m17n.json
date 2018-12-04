@@ -93,11 +93,6 @@
       "person_id": "Q56760397",
       "organization_id": "Q51833333",
       "area_id": "Q682642",
-      "role_superclass_code": "Q51831986",
-      "role_superclass": {
-        "lang:es": "Governor of the Department of Alto Paraguay",
-        "lang:en": "Gobernador del Departamento de Alto Paraguay"
-      },
       "role_code": "Q51831986",
       "role": {
         "lang:es": "Governor of the Department of Alto Paraguay",

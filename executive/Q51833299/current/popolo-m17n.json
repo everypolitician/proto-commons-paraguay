@@ -93,11 +93,6 @@
       "person_id": "Q56760390",
       "organization_id": "Q51833299",
       "area_id": "Q741009",
-      "role_superclass_code": "Q51831956",
-      "role_superclass": {
-        "lang:es": "Gobernador del Departamento de Concepción",
-        "lang:en": "Governor of the Department of Concepcion"
-      },
       "role_code": "Q51831956",
       "role": {
         "lang:es": "Gobernador del Departamento de Concepción",

@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "junta departmental de Amambay",
+        "lang:en": "departmental board of Amambay"
+      },
+      "id": "Q51839118",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839118"
+        }
+      ],
+      "area_id": "Q686586",
+      "seat_counts": {
+        "Q51842232": "9"
+      }
+    }
   ],
   "areas": [
     {

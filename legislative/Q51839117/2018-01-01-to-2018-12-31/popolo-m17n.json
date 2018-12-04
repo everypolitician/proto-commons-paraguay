@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "junta departmental de Ñeembucú",
+        "lang:en": "departmental board of Ñeembucú"
+      },
+      "id": "Q51839117",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51839117"
+        }
+      ],
+      "area_id": "Q755115",
+      "seat_counts": {
+        "Q51842231": "8"
+      }
+    }
   ],
   "areas": [
     {
