@@ -1,0 +1,1664 @@
+{
+  "head": {
+    "vars": [
+      "position",
+      "position_name_es",
+      "position_name_gn",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_es",
+      "admin_area_gn",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_es",
+      "position_superclass_gn",
+      "position_superclass_en",
+      "body",
+      "body_es",
+      "body_gn",
+      "body_en"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20058559"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "senador de Paraguay"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator of Paraguay"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q733"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Paraguay"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Paraguái"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paraguay"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15686806"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "senador"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "senator"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2119404"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cámara de Senadores de Paraguay"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Senate of Paraguay"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20058561"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado de Paraguay"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy of Paraguay"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q733"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Paraguay"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Paraguái"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paraguay"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1055894"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "diputado"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "deputy"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q320290"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cámara de Diputados de Paraguay"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chamber of Deputies"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51831955"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Intendente municipal de Asunción"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Municipal mayor of Asuncion"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2933"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Asunción"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Paraguay"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Asunción"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "alcalde"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51833297"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Gabinete de Asunción"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cabinet of Asuncion"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842212"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Concepción"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Concepción department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q741009"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Concepción"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Tetãvore Concepción"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Concepción Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839097"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Concepción"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Concepcion"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842213"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de San Pedro"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for San Pedro department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q526176"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "San Pedro"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Tetãvore San Pedro"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "San Pedro Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839098"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de San Pedro"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of San Pedro"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842214"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Cordillera"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Cordillera department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q755121"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Cordillera"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Cordillera"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cordillera Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839099"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Cordillera"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Cordillera"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842216"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Guairá"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Guairá department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q755116"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Guairá"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Guaira"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Guairá Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839100"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental of Guairá"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Guairá"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842217"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Caaguazú"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for the department of Caaguazú"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q880399"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Caaguazú"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Ka'aguasu"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Caaguazú"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839101"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Caaguazú"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Caaguazu"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842218"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Caazapá"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for the department of Caazapá"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q881839"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Caazapá"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Tetãvore Ka'asapa"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Caazapá"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839102"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Caazapá"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Caazapa"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842219"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Itapúa"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for the department of Itapúa"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q222564"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Itapúa"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Itapúa"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Itapúa"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839103"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Itapúa"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Itapua"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842220"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Misiones"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Misiones department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q591194"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Misiones"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Misiones"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Misiones Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839104"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Misiones"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Misiones"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842222"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Paraguarí"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Paraguarí department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240014"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Paraguarí"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Tetãvore Paraguari"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paraguarí Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839107"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Paraguarí"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Paraguari"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842229"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Alto Paraná"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Alto Paraná department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682654"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Alto Paraná"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Alto Parana"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alto Paraná Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839114"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Alto Paraná"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Alto Parana"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842230"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de departamento Central"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Central department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q372461"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Departamento Central"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Tetãvore Central"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Central Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839115"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Central"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Central"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842231"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Ñeembucú"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Ñeembucú department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q755115"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ñeembucú"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Ñe'ẽmbuku"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ñeembucú Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839117"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Ñeembucú"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Ñeembucú"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842232"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Amambay"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Amambay department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q686586"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Amambay"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Amambai"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Amambay Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839118"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Amambay"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Amambay"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842235"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Canindeyú"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for the department of Canindeyú"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q279085"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Canindeyú"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Kanindeju"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Canindeyú"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839120"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Canindeyú"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Canindeyú"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842237"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Presidente Hayes"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Presidente Hayes department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q750551"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Presidente Hayes"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Tetãvore Presidente Hayes"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Presidente Hayes Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839121"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Presidente Hayes"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Presidente Hayes"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842238"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Boquerón"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Boquerón department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q741017"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Boquerón"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Boquerón"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Boquerón Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839123"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental of Boquerón"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Boqueron"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842239"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal departamental de Alto Paraguay"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for Alto Paraguay department"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q682642"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Alto Paraguay"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Alto Paraguái"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Alto Paraguay Department"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839124"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "junta departmental de Alto Paraguay"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "departmental board of Alto Paraguay"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51842240"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal de Asunción"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor for the city of Asunción"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q10864048 Q515"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2933"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Asunción"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Paraguay"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Asunción"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "concejal"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51839125"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Junta Municipal de Asunción"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Municipal Board of Asuncion"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34071"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Presidente del Paraguay"
+        },
+        "position_name_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Tendota Paraguaigua"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of Paraguay"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q733"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Paraguay"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Paraguái"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paraguay"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30461"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "presidente"
+        },
+        "position_superclass_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "tendota"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "president"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51833296"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ministerios del Poder Ejecutivo"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ministries of Executive Power"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34071"
+        },
+        "position_name_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Presidente del Paraguay"
+        },
+        "position_name_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Tendota Paraguaigua"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "President of Paraguay"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q733"
+        },
+        "admin_area_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Paraguay"
+        },
+        "admin_area_gn": {
+          "xml:lang": "gn",
+          "type": "literal",
+          "value": "Paraguái"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Paraguay"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2285706"
+        },
+        "position_superclass_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "jefe de Gobierno"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "head of government"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q51833296"
+        },
+        "body_es": {
+          "xml:lang": "es",
+          "type": "literal",
+          "value": "Ministerios del Poder Ejecutivo"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Ministries of Executive Power"
+        }
+      }
+    ]
+  }
+}
